@@ -23,7 +23,7 @@ type Building struct {
 }
 
 func main() {
-	csvFile, err := os.Open("raw_cub.csv")
+	csvFile, err := os.Open("cub.csv")
 	if err != nil {
 		fmt.Println(err)
 	}
@@ -83,7 +83,7 @@ func main() {
 
 	fmt.Println(string(jsonData))
 
-	jsonFile, err := os.Create("raw_data.json")
+	jsonFile, err := os.Create("cub.json")
 	if err != nil {
 		fmt.Println(err)
 	}
