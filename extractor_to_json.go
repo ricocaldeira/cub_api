@@ -7,9 +7,12 @@ import (
 	"os"
 	"strconv"
 	"strings"
+
+	"github.com/google/uuid"
 )
 
 type Building struct {
+	UUID        string
 	State       string
 	Type        string
 	SubType     string
@@ -41,6 +44,8 @@ func main() {
 	var mergedType string
 	var mergedSubType string
 
+	statesUUIDMap := make(map[string]string)
+
 	for _, each := range csvData {
 		if len(each[0]) > 0 {
 			mergedState = each[0]
@@ -50,6 +55,13 @@ func main() {
 		}
 		if len(each[2]) > 0 {
 			mergedSubType = each[2]
+		}
+
+		if val, ok := statesUUIDMap[mergedState]; ok {
+			building.UUID = val
+		} else {
+			building.UUID = uuid.New().String()
+			statesUUIDMap[mergedState] = building.UUID
 		}
 
 		building.State = mergedState

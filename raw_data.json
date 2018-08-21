@@ -1,5 +1,6 @@
 [
     {
+        "UUID": "d6ab9532-beea-499e-a93c-544b67376294",
         "State": "ACRE",
         "Type": "RESIDENCIAL",
         "SubType": "R-1 (RESIDÊNCIA UNIFAMILIAR)",
@@ -8,6 +9,7 @@
         "Cost": 1542.89
     },
     {
+        "UUID": "d6ab9532-beea-499e-a93c-544b67376294",
         "State": "ACRE",
         "Type": "RESIDENCIAL",
         "SubType": "R-1 (RESIDÊNCIA UNIFAMILIAR)",
@@ -16,6 +18,7 @@
         "Cost": 1626.85
     },
     {
+        "UUID": "d6ab9532-beea-499e-a93c-544b67376294",
         "State": "ACRE",
         "Type": "RESIDENCIAL",
         "SubType": "R-1 (RESIDÊNCIA UNIFAMILIAR)",
@@ -24,6 +27,7 @@
         "Cost": 2183.41
     },
     {
+        "UUID": "d6ab9532-beea-499e-a93c-544b67376294",
         "State": "ACRE",
         "Type": "RESIDENCIAL",
         "SubType": "PP (PRÉDIO POPULAR)",
@@ -32,6 +36,7 @@
         "Cost": 1412.42
     },
     {
+        "UUID": "d6ab9532-beea-499e-a93c-544b67376294",
         "State": "ACRE",
         "Type": "RESIDENCIAL",
         "SubType": "PP (PRÉDIO POPULAR)",
@@ -40,6 +45,7 @@
         "Cost": 1620.02
     },
     {
+        "UUID": "d6ab9532-beea-499e-a93c-544b67376294",
         "State": "ACRE",
         "Type": "RESIDENCIAL",
         "SubType": "R-8",
@@ -48,6 +54,7 @@
         "Cost": 1357.8
     },
     {
+        "UUID": "d6ab9532-beea-499e-a93c-544b67376294",
         "State": "ACRE",
         "Type": "RESIDENCIAL",
         "SubType": "R-8",
@@ -56,6 +63,7 @@
         "Cost": 1386.78
     },
     {
+        "UUID": "d6ab9532-beea-499e-a93c-544b67376294",
         "State": "ACRE",
         "Type": "RESIDENCIAL",
         "SubType": "R-8",
@@ -64,6 +72,7 @@
         "Cost": 1811.75
     },
     {
+        "UUID": "d6ab9532-beea-499e-a93c-544b67376294",
         "State": "ACRE",
         "Type": "RESIDENCIAL",
         "SubType": "R-16",
@@ -72,6 +81,7 @@
         "Cost": 1353.62
     },
     {
+        "UUID": "d6ab9532-beea-499e-a93c-544b67376294",
         "State": "ACRE",
         "Type": "RESIDENCIAL",
         "SubType": "R-16",
@@ -80,6 +90,7 @@
         "Cost": 1859.49
     },
     {
+        "UUID": "d6ab9532-beea-499e-a93c-544b67376294",
         "State": "ACRE",
         "Type": "RESIDENCIAL",
         "SubType": "PIS (PROJETO INTERESSE SOCIAL)",
@@ -88,6 +99,7 @@
         "Cost": 1093.35
     },
     {
+        "UUID": "d6ab9532-beea-499e-a93c-544b67376294",
         "State": "ACRE",
         "Type": "RESIDENCIAL",
         "SubType": "RPQ1 (RESIDÊNCIA POPULAR)",
@@ -96,6 +108,7 @@
         "Cost": 1190.28
     },
     {
+        "UUID": "d6ab9532-beea-499e-a93c-544b67376294",
         "State": "ACRE",
         "Type": "COMERCIAL",
         "SubType": "CAL-8 (COMERCIAL ANDARES-LIVRES)",
@@ -104,6 +117,7 @@
         "Cost": 1695.34
     },
     {
+        "UUID": "d6ab9532-beea-499e-a93c-544b67376294",
         "State": "ACRE",
         "Type": "COMERCIAL",
         "SubType": "CAL-8 (COMERCIAL ANDARES-LIVRES)",
@@ -112,6 +126,7 @@
         "Cost": 1904.02
     },
     {
+        "UUID": "d6ab9532-beea-499e-a93c-544b67376294",
         "State": "ACRE",
         "Type": "COMERCIAL",
         "SubType": "CSL-8 (COMERCIAL COM LOJAS E SALAS)",
@@ -120,6 +135,7 @@
         "Cost": 1402.71
     },
     {
+        "UUID": "d6ab9532-beea-499e-a93c-544b67376294",
         "State": "ACRE",
         "Type": "COMERCIAL",
         "SubType": "CSL-8 (COMERCIAL COM LOJAS E SALAS)",
@@ -128,6 +144,7 @@
         "Cost": 1688.55
     },
     {
+        "UUID": "d6ab9532-beea-499e-a93c-544b67376294",
         "State": "ACRE",
         "Type": "COMERCIAL",
         "SubType": "CSL-16 (COMERCIAL COM LOJAS E SALAS)",
@@ -136,6 +153,7 @@
         "Cost": 1858.43
     },
     {
+        "UUID": "d6ab9532-beea-499e-a93c-544b67376294",
         "State": "ACRE",
         "Type": "COMERCIAL",
         "SubType": "CSL-16 (COMERCIAL COM LOJAS E SALAS)",
@@ -144,6 +162,7 @@
         "Cost": 2209.61
     },
     {
+        "UUID": "d6ab9532-beea-499e-a93c-544b67376294",
         "State": "ACRE",
         "Type": "COMERCIAL",
         "SubType": "GL (GALPÃO INDUSTRIAL)",
@@ -152,6 +171,7 @@
         "Cost": 724.4
     },
     {
+        "UUID": "9ba0c7a7-b00f-4cc2-8b15-5f11b7d32b8e",
         "State": "ALAGOAS",
         "Type": "RESIDENCIAL",
         "SubType": "R-1 (RESIDÊNCIA UNIFAMILIAR)",
@@ -160,6 +180,7 @@
         "Cost": 1257.95
     },
     {
+        "UUID": "9ba0c7a7-b00f-4cc2-8b15-5f11b7d32b8e",
         "State": "ALAGOAS",
         "Type": "RESIDENCIAL",
         "SubType": "R-1 (RESIDÊNCIA UNIFAMILIAR)",
@@ -168,6 +189,7 @@
         "Cost": 1499.27
     },
     {
+        "UUID": "9ba0c7a7-b00f-4cc2-8b15-5f11b7d32b8e",
         "State": "ALAGOAS",
         "Type": "RESIDENCIAL",
         "SubType": "R-1 (RESIDÊNCIA UNIFAMILIAR)",
@@ -176,6 +198,7 @@
         "Cost": 1937.37
     },
     {
+        "UUID": "9ba0c7a7-b00f-4cc2-8b15-5f11b7d32b8e",
         "State": "ALAGOAS",
         "Type": "RESIDENCIAL",
         "SubType": "PP (PRÉDIO POPULAR)",
@@ -184,6 +207,7 @@
         "Cost": 1195.01
     },
     {
+        "UUID": "9ba0c7a7-b00f-4cc2-8b15-5f11b7d32b8e",
         "State": "ALAGOAS",
         "Type": "RESIDENCIAL",
         "SubType": "PP (PRÉDIO POPULAR)",
@@ -192,6 +216,7 @@
         "Cost": 1420.59
     },
     {
+        "UUID": "9ba0c7a7-b00f-4cc2-8b15-5f11b7d32b8e",
         "State": "ALAGOAS",
         "Type": "RESIDENCIAL",
         "SubType": "R-8",
@@ -200,6 +225,7 @@
         "Cost": 1138.49
     },
     {
+        "UUID": "9ba0c7a7-b00f-4cc2-8b15-5f11b7d32b8e",
         "State": "ALAGOAS",
         "Type": "RESIDENCIAL",
         "SubType": "R-8",
@@ -208,6 +234,7 @@
         "Cost": 1232.1
     },
     {
+        "UUID": "9ba0c7a7-b00f-4cc2-8b15-5f11b7d32b8e",
         "State": "ALAGOAS",
         "Type": "RESIDENCIAL",
         "SubType": "R-8",
@@ -216,6 +243,7 @@
         "Cost": 1572.9
     },
     {
+        "UUID": "9ba0c7a7-b00f-4cc2-8b15-5f11b7d32b8e",
         "State": "ALAGOAS",
         "Type": "RESIDENCIAL",
         "SubType": "R-16",
@@ -224,6 +252,7 @@
         "Cost": 1211.73
     },
     {
+        "UUID": "9ba0c7a7-b00f-4cc2-8b15-5f11b7d32b8e",
         "State": "ALAGOAS",
         "Type": "RESIDENCIAL",
         "SubType": "R-16",
@@ -232,6 +261,7 @@
         "Cost": 1572.9
     },
     {
+        "UUID": "9ba0c7a7-b00f-4cc2-8b15-5f11b7d32b8e",
         "State": "ALAGOAS",
         "Type": "RESIDENCIAL",
         "SubType": "PIS (PROJETO INTERESSE SOCIAL)",
@@ -240,6 +270,7 @@
         "Cost": 870.8
     },
     {
+        "UUID": "9ba0c7a7-b00f-4cc2-8b15-5f11b7d32b8e",
         "State": "ALAGOAS",
         "Type": "RESIDENCIAL",
         "SubType": "RPQ1 (RESIDÊNCIA POPULAR)",
@@ -248,6 +279,7 @@
         "Cost": 1245.35
     },
     {
+        "UUID": "9ba0c7a7-b00f-4cc2-8b15-5f11b7d32b8e",
         "State": "ALAGOAS",
         "Type": "COMERCIAL",
         "SubType": "CAL-8 (COMERCIAL ANDARES-LIVRES)",
@@ -256,6 +288,7 @@
         "Cost": 1426.53
     },
     {
+        "UUID": "9ba0c7a7-b00f-4cc2-8b15-5f11b7d32b8e",
         "State": "ALAGOAS",
         "Type": "COMERCIAL",
         "SubType": "CAL-8 (COMERCIAL ANDARES-LIVRES)",
@@ -264,6 +297,7 @@
         "Cost": 1590.38
     },
     {
+        "UUID": "9ba0c7a7-b00f-4cc2-8b15-5f11b7d32b8e",
         "State": "ALAGOAS",
         "Type": "COMERCIAL",
         "SubType": "CSL-8 (COMERCIAL COM LOJAS E SALAS)",
@@ -272,6 +306,7 @@
         "Cost": 1190
     },
     {
+        "UUID": "9ba0c7a7-b00f-4cc2-8b15-5f11b7d32b8e",
         "State": "ALAGOAS",
         "Type": "COMERCIAL",
         "SubType": "CSL-8 (COMERCIAL COM LOJAS E SALAS)",
@@ -280,6 +315,7 @@
         "Cost": 1356.95
     },
     {
+        "UUID": "9ba0c7a7-b00f-4cc2-8b15-5f11b7d32b8e",
         "State": "ALAGOAS",
         "Type": "COMERCIAL",
         "SubType": "CSL-16 (COMERCIAL COM LOJAS E SALAS)",
@@ -288,6 +324,7 @@
         "Cost": 1589.12
     },
     {
+        "UUID": "9ba0c7a7-b00f-4cc2-8b15-5f11b7d32b8e",
         "State": "ALAGOAS",
         "Type": "COMERCIAL",
         "SubType": "CSL-16 (COMERCIAL COM LOJAS E SALAS)",
@@ -296,6 +333,7 @@
         "Cost": 1809.99
     },
     {
+        "UUID": "9ba0c7a7-b00f-4cc2-8b15-5f11b7d32b8e",
         "State": "ALAGOAS",
         "Type": "COMERCIAL",
         "SubType": "GL (GALPÃO INDUSTRIAL)",
@@ -304,6 +342,7 @@
         "Cost": 683.38
     },
     {
+        "UUID": "5423ea4f-67b7-4c67-893f-89e376d106a8",
         "State": "AMAPÁ",
         "Type": "RESIDENCIAL",
         "SubType": "R-1 (RESIDÊNCIA UNIFAMILIAR)",
@@ -312,6 +351,7 @@
         "Cost": 1217.96
     },
     {
+        "UUID": "5423ea4f-67b7-4c67-893f-89e376d106a8",
         "State": "AMAPÁ",
         "Type": "RESIDENCIAL",
         "SubType": "R-1 (RESIDÊNCIA UNIFAMILIAR)",
@@ -320,6 +360,7 @@
         "Cost": 1388.69
     },
     {
+        "UUID": "5423ea4f-67b7-4c67-893f-89e376d106a8",
         "State": "AMAPÁ",
         "Type": "RESIDENCIAL",
         "SubType": "R-1 (RESIDÊNCIA UNIFAMILIAR)",
@@ -328,6 +369,7 @@
         "Cost": 1739.18
     },
     {
+        "UUID": "5423ea4f-67b7-4c67-893f-89e376d106a8",
         "State": "AMAPÁ",
         "Type": "RESIDENCIAL",
         "SubType": "PP (PRÉDIO POPULAR)",
@@ -336,6 +378,7 @@
         "Cost": 1166.1
     },
     {
+        "UUID": "5423ea4f-67b7-4c67-893f-89e376d106a8",
         "State": "AMAPÁ",
         "Type": "RESIDENCIAL",
         "SubType": "PP (PRÉDIO POPULAR)",
@@ -344,6 +387,7 @@
         "Cost": 1336.1
     },
     {
+        "UUID": "5423ea4f-67b7-4c67-893f-89e376d106a8",
         "State": "AMAPÁ",
         "Type": "RESIDENCIAL",
         "SubType": "R-8",
@@ -352,6 +396,7 @@
         "Cost": 1290.63
     },
     {
+        "UUID": "5423ea4f-67b7-4c67-893f-89e376d106a8",
         "State": "AMAPÁ",
         "Type": "RESIDENCIAL",
         "SubType": "R-8",
@@ -360,6 +405,7 @@
         "Cost": 1031.83
     },
     {
+        "UUID": "5423ea4f-67b7-4c67-893f-89e376d106a8",
         "State": "AMAPÁ",
         "Type": "RESIDENCIAL",
         "SubType": "R-8",
@@ -368,6 +414,7 @@
         "Cost": 1463.83
     },
     {
+        "UUID": "5423ea4f-67b7-4c67-893f-89e376d106a8",
         "State": "AMAPÁ",
         "Type": "RESIDENCIAL",
         "SubType": "R-16",
@@ -376,6 +423,7 @@
         "Cost": 1182.46
     },
     {
+        "UUID": "5423ea4f-67b7-4c67-893f-89e376d106a8",
         "State": "AMAPÁ",
         "Type": "RESIDENCIAL",
         "SubType": "R-16",
@@ -384,6 +432,7 @@
         "Cost": 1621.59
     },
     {
+        "UUID": "5423ea4f-67b7-4c67-893f-89e376d106a8",
         "State": "AMAPÁ",
         "Type": "RESIDENCIAL",
         "SubType": "PIS (PROJETO INTERESSE SOCIAL)",
@@ -392,6 +441,7 @@
         "Cost": 832.77
     },
     {
+        "UUID": "5423ea4f-67b7-4c67-893f-89e376d106a8",
         "State": "AMAPÁ",
         "Type": "RESIDENCIAL",
         "SubType": "RPQ1 (RESIDÊNCIA POPULAR)",
@@ -400,6 +450,7 @@
         "Cost": 1222.75
     },
     {
+        "UUID": "5423ea4f-67b7-4c67-893f-89e376d106a8",
         "State": "AMAPÁ",
         "Type": "COMERCIAL",
         "SubType": "CAL-8 (COMERCIAL ANDARES-LIVRES)",
@@ -408,6 +459,7 @@
         "Cost": 1429.82
     },
     {
+        "UUID": "5423ea4f-67b7-4c67-893f-89e376d106a8",
         "State": "AMAPÁ",
         "Type": "COMERCIAL",
         "SubType": "CAL-8 (COMERCIAL ANDARES-LIVRES)",
@@ -416,6 +468,7 @@
         "Cost": 1536.44
     },
     {
+        "UUID": "5423ea4f-67b7-4c67-893f-89e376d106a8",
         "State": "AMAPÁ",
         "Type": "COMERCIAL",
         "SubType": "CSL-8 (COMERCIAL COM LOJAS E SALAS)",
@@ -424,6 +477,7 @@
         "Cost": 1217.75
     },
     {
+        "UUID": "5423ea4f-67b7-4c67-893f-89e376d106a8",
         "State": "AMAPÁ",
         "Type": "COMERCIAL",
         "SubType": "CSL-8 (COMERCIAL COM LOJAS E SALAS)",
@@ -432,6 +486,7 @@
         "Cost": 1358.86
     },
     {
+        "UUID": "5423ea4f-67b7-4c67-893f-89e376d106a8",
         "State": "AMAPÁ",
         "Type": "COMERCIAL",
         "SubType": "CSL-16 (COMERCIAL COM LOJAS E SALAS)",
@@ -440,6 +495,7 @@
         "Cost": 1629.78
     },
     {
+        "UUID": "5423ea4f-67b7-4c67-893f-89e376d106a8",
         "State": "AMAPÁ",
         "Type": "COMERCIAL",
         "SubType": "CSL-16 (COMERCIAL COM LOJAS E SALAS)",
@@ -448,6 +504,7 @@
         "Cost": 1812.19
     },
     {
+        "UUID": "5423ea4f-67b7-4c67-893f-89e376d106a8",
         "State": "AMAPÁ",
         "Type": "COMERCIAL",
         "SubType": "GL (GALPÃO INDUSTRIAL)",
@@ -456,6 +513,7 @@
         "Cost": 666.26
     },
     {
+        "UUID": "1994e1e9-8d51-4fb8-a3e4-38c763e1ee41",
         "State": "AMAZONAS",
         "Type": "RESIDENCIAL",
         "SubType": "R-1 (RESIDÊNCIA UNIFAMILIAR)",
@@ -464,6 +522,7 @@
         "Cost": 1413.12
     },
     {
+        "UUID": "1994e1e9-8d51-4fb8-a3e4-38c763e1ee41",
         "State": "AMAZONAS",
         "Type": "RESIDENCIAL",
         "SubType": "R-1 (RESIDÊNCIA UNIFAMILIAR)",
@@ -472,6 +531,7 @@
         "Cost": 1671.53
     },
     {
+        "UUID": "1994e1e9-8d51-4fb8-a3e4-38c763e1ee41",
         "State": "AMAZONAS",
         "Type": "RESIDENCIAL",
         "SubType": "R-1 (RESIDÊNCIA UNIFAMILIAR)",
@@ -480,6 +540,7 @@
         "Cost": 2034.89
     },
     {
+        "UUID": "1994e1e9-8d51-4fb8-a3e4-38c763e1ee41",
         "State": "AMAZONAS",
         "Type": "RESIDENCIAL",
         "SubType": "PP (PRÉDIO POPULAR)",
@@ -488,6 +549,7 @@
         "Cost": 1244.25
     },
     {
+        "UUID": "1994e1e9-8d51-4fb8-a3e4-38c763e1ee41",
         "State": "AMAZONAS",
         "Type": "RESIDENCIAL",
         "SubType": "PP (PRÉDIO POPULAR)",
@@ -496,6 +558,7 @@
         "Cost": 1589.98
     },
     {
+        "UUID": "1994e1e9-8d51-4fb8-a3e4-38c763e1ee41",
         "State": "AMAZONAS",
         "Type": "RESIDENCIAL",
         "SubType": "R-8",
@@ -504,6 +567,7 @@
         "Cost": 1185.78
     },
     {
+        "UUID": "1994e1e9-8d51-4fb8-a3e4-38c763e1ee41",
         "State": "AMAZONAS",
         "Type": "RESIDENCIAL",
         "SubType": "R-8",
@@ -512,6 +576,7 @@
         "Cost": 1368.08
     },
     {
+        "UUID": "1994e1e9-8d51-4fb8-a3e4-38c763e1ee41",
         "State": "AMAZONAS",
         "Type": "RESIDENCIAL",
         "SubType": "R-8",
@@ -520,6 +585,7 @@
         "Cost": 1657.12
     },
     {
+        "UUID": "1994e1e9-8d51-4fb8-a3e4-38c763e1ee41",
         "State": "AMAZONAS",
         "Type": "RESIDENCIAL",
         "SubType": "R-16",
@@ -528,6 +594,7 @@
         "Cost": 1319.88
     },
     {
+        "UUID": "1994e1e9-8d51-4fb8-a3e4-38c763e1ee41",
         "State": "AMAZONAS",
         "Type": "RESIDENCIAL",
         "SubType": "R-16",
@@ -536,6 +603,7 @@
         "Cost": 1744.21
     },
     {
+        "UUID": "1994e1e9-8d51-4fb8-a3e4-38c763e1ee41",
         "State": "AMAZONAS",
         "Type": "RESIDENCIAL",
         "SubType": "PIS (PROJETO INTERESSE SOCIAL)",
@@ -544,6 +612,7 @@
         "Cost": 926.29
     },
     {
+        "UUID": "1994e1e9-8d51-4fb8-a3e4-38c763e1ee41",
         "State": "AMAZONAS",
         "Type": "RESIDENCIAL",
         "SubType": "RPQ1 (RESIDÊNCIA POPULAR)",
@@ -552,6 +621,7 @@
         "Cost": 1387.68
     },
     {
+        "UUID": "1994e1e9-8d51-4fb8-a3e4-38c763e1ee41",
         "State": "AMAZONAS",
         "Type": "COMERCIAL",
         "SubType": "CAL-8 (COMERCIAL ANDARES-LIVRES)",
@@ -560,6 +630,7 @@
         "Cost": 1573.06
     },
     {
+        "UUID": "1994e1e9-8d51-4fb8-a3e4-38c763e1ee41",
         "State": "AMAZONAS",
         "Type": "COMERCIAL",
         "SubType": "CAL-8 (COMERCIAL ANDARES-LIVRES)",
@@ -568,6 +639,7 @@
         "Cost": 1676.98
     },
     {
+        "UUID": "1994e1e9-8d51-4fb8-a3e4-38c763e1ee41",
         "State": "AMAZONAS",
         "Type": "COMERCIAL",
         "SubType": "CSL-8 (COMERCIAL COM LOJAS E SALAS)",
@@ -576,6 +648,7 @@
         "Cost": 1351.02
     },
     {
+        "UUID": "1994e1e9-8d51-4fb8-a3e4-38c763e1ee41",
         "State": "AMAZONAS",
         "Type": "COMERCIAL",
         "SubType": "CSL-8 (COMERCIAL COM LOJAS E SALAS)",
@@ -584,6 +657,7 @@
         "Cost": 1479.49
     },
     {
+        "UUID": "1994e1e9-8d51-4fb8-a3e4-38c763e1ee41",
         "State": "AMAZONAS",
         "Type": "COMERCIAL",
         "SubType": "CSL-16 (COMERCIAL COM LOJAS E SALAS)",
@@ -592,6 +666,7 @@
         "Cost": 1793.48
     },
     {
+        "UUID": "1994e1e9-8d51-4fb8-a3e4-38c763e1ee41",
         "State": "AMAZONAS",
         "Type": "COMERCIAL",
         "SubType": "CSL-16 (COMERCIAL COM LOJAS E SALAS)",
@@ -600,6 +675,7 @@
         "Cost": 1961.25
     },
     {
+        "UUID": "1994e1e9-8d51-4fb8-a3e4-38c763e1ee41",
         "State": "AMAZONAS",
         "Type": "COMERCIAL",
         "SubType": "GL (GALPÃO INDUSTRIAL)",
@@ -608,6 +684,7 @@
         "Cost": 726.66
     },
     {
+        "UUID": "3fca6b5d-65b7-49ac-a7ca-b378f0d504cc",
         "State": "BAHIA",
         "Type": "RESIDENCIAL",
         "SubType": "R-1 (RESIDÊNCIA UNIFAMILIAR)",
@@ -616,6 +693,7 @@
         "Cost": 1469.51
     },
     {
+        "UUID": "3fca6b5d-65b7-49ac-a7ca-b378f0d504cc",
         "State": "BAHIA",
         "Type": "RESIDENCIAL",
         "SubType": "R-1 (RESIDÊNCIA UNIFAMILIAR)",
@@ -624,6 +702,7 @@
         "Cost": 1738.5
     },
     {
+        "UUID": "3fca6b5d-65b7-49ac-a7ca-b378f0d504cc",
         "State": "BAHIA",
         "Type": "RESIDENCIAL",
         "SubType": "R-1 (RESIDÊNCIA UNIFAMILIAR)",
@@ -632,6 +711,7 @@
         "Cost": 2067.32
     },
     {
+        "UUID": "3fca6b5d-65b7-49ac-a7ca-b378f0d504cc",
         "State": "BAHIA",
         "Type": "RESIDENCIAL",
         "SubType": "PP (PRÉDIO POPULAR)",
@@ -640,6 +720,7 @@
         "Cost": 1255.62
     },
     {
+        "UUID": "3fca6b5d-65b7-49ac-a7ca-b378f0d504cc",
         "State": "BAHIA",
         "Type": "RESIDENCIAL",
         "SubType": "PP (PRÉDIO POPULAR)",
@@ -648,6 +729,7 @@
         "Cost": 1645.92
     },
     {
+        "UUID": "3fca6b5d-65b7-49ac-a7ca-b378f0d504cc",
         "State": "BAHIA",
         "Type": "RESIDENCIAL",
         "SubType": "R-8",
@@ -656,6 +738,7 @@
         "Cost": 1190.14
     },
     {
+        "UUID": "3fca6b5d-65b7-49ac-a7ca-b378f0d504cc",
         "State": "BAHIA",
         "Type": "RESIDENCIAL",
         "SubType": "R-8",
@@ -664,6 +747,7 @@
         "Cost": 1385.88
     },
     {
+        "UUID": "3fca6b5d-65b7-49ac-a7ca-b378f0d504cc",
         "State": "BAHIA",
         "Type": "RESIDENCIAL",
         "SubType": "R-8",
@@ -672,6 +756,7 @@
         "Cost": 1649.35
     },
     {
+        "UUID": "3fca6b5d-65b7-49ac-a7ca-b378f0d504cc",
         "State": "BAHIA",
         "Type": "RESIDENCIAL",
         "SubType": "R-16",
@@ -680,6 +765,7 @@
         "Cost": 1331.55
     },
     {
+        "UUID": "3fca6b5d-65b7-49ac-a7ca-b378f0d504cc",
         "State": "BAHIA",
         "Type": "RESIDENCIAL",
         "SubType": "R-16",
@@ -688,6 +774,7 @@
         "Cost": 1740.78
     },
     {
+        "UUID": "3fca6b5d-65b7-49ac-a7ca-b378f0d504cc",
         "State": "BAHIA",
         "Type": "RESIDENCIAL",
         "SubType": "PIS (PROJETO INTERESSE SOCIAL)",
@@ -696,6 +783,7 @@
         "Cost": 929.29
     },
     {
+        "UUID": "3fca6b5d-65b7-49ac-a7ca-b378f0d504cc",
         "State": "BAHIA",
         "Type": "RESIDENCIAL",
         "SubType": "RPQ1 (RESIDÊNCIA POPULAR)",
@@ -704,6 +792,7 @@
         "Cost": 1390.16
     },
     {
+        "UUID": "3fca6b5d-65b7-49ac-a7ca-b378f0d504cc",
         "State": "BAHIA",
         "Type": "COMERCIAL",
         "SubType": "CAL-8 (COMERCIAL ANDARES-LIVRES)",
@@ -712,6 +801,7 @@
         "Cost": 1582.95
     },
     {
+        "UUID": "3fca6b5d-65b7-49ac-a7ca-b378f0d504cc",
         "State": "BAHIA",
         "Type": "COMERCIAL",
         "SubType": "CAL-8 (COMERCIAL ANDARES-LIVRES)",
@@ -720,6 +810,7 @@
         "Cost": 1674.86
     },
     {
+        "UUID": "3fca6b5d-65b7-49ac-a7ca-b378f0d504cc",
         "State": "BAHIA",
         "Type": "COMERCIAL",
         "SubType": "CSL-8 (COMERCIAL COM LOJAS E SALAS)",
@@ -728,6 +819,7 @@
         "Cost": 1374.23
     },
     {
+        "UUID": "3fca6b5d-65b7-49ac-a7ca-b378f0d504cc",
         "State": "BAHIA",
         "Type": "COMERCIAL",
         "SubType": "CSL-8 (COMERCIAL COM LOJAS E SALAS)",
@@ -736,6 +828,7 @@
         "Cost": 1482.43
     },
     {
+        "UUID": "3fca6b5d-65b7-49ac-a7ca-b378f0d504cc",
         "State": "BAHIA",
         "Type": "COMERCIAL",
         "SubType": "CSL-16 (COMERCIAL COM LOJAS E SALAS)",
@@ -744,6 +837,7 @@
         "Cost": 1819.73
     },
     {
+        "UUID": "3fca6b5d-65b7-49ac-a7ca-b378f0d504cc",
         "State": "BAHIA",
         "Type": "COMERCIAL",
         "SubType": "CSL-16 (COMERCIAL COM LOJAS E SALAS)",
@@ -752,6 +846,7 @@
         "Cost": 1962.96
     },
     {
+        "UUID": "3fca6b5d-65b7-49ac-a7ca-b378f0d504cc",
         "State": "BAHIA",
         "Type": "COMERCIAL",
         "SubType": "GL (GALPÃO INDUSTRIAL)",
@@ -760,6 +855,7 @@
         "Cost": 747.75
     },
     {
+        "UUID": "af847dc4-f80e-4795-8ca3-93e8bf53ec56",
         "State": "CEARÁ",
         "Type": "RESIDENCIAL",
         "SubType": "R-1 (RESIDÊNCIA UNIFAMILIAR)",
@@ -768,6 +864,7 @@
         "Cost": 1201.25
     },
     {
+        "UUID": "af847dc4-f80e-4795-8ca3-93e8bf53ec56",
         "State": "CEARÁ",
         "Type": "RESIDENCIAL",
         "SubType": "R-1 (RESIDÊNCIA UNIFAMILIAR)",
@@ -776,6 +873,7 @@
         "Cost": 1442.82
     },
     {
+        "UUID": "af847dc4-f80e-4795-8ca3-93e8bf53ec56",
         "State": "CEARÁ",
         "Type": "RESIDENCIAL",
         "SubType": "R-1 (RESIDÊNCIA UNIFAMILIAR)",
@@ -784,6 +882,7 @@
         "Cost": 1746.46
     },
     {
+        "UUID": "af847dc4-f80e-4795-8ca3-93e8bf53ec56",
         "State": "CEARÁ",
         "Type": "RESIDENCIAL",
         "SubType": "PP (PRÉDIO POPULAR)",
@@ -792,6 +891,7 @@
         "Cost": 1091.74
     },
     {
+        "UUID": "af847dc4-f80e-4795-8ca3-93e8bf53ec56",
         "State": "CEARÁ",
         "Type": "RESIDENCIAL",
         "SubType": "PP (PRÉDIO POPULAR)",
@@ -800,6 +900,7 @@
         "Cost": 1344.41
     },
     {
+        "UUID": "af847dc4-f80e-4795-8ca3-93e8bf53ec56",
         "State": "CEARÁ",
         "Type": "RESIDENCIAL",
         "SubType": "R-8",
@@ -808,6 +909,7 @@
         "Cost": 1038.53
     },
     {
+        "UUID": "af847dc4-f80e-4795-8ca3-93e8bf53ec56",
         "State": "CEARÁ",
         "Type": "RESIDENCIAL",
         "SubType": "R-8",
@@ -816,6 +918,7 @@
         "Cost": 0
     },
     {
+        "UUID": "af847dc4-f80e-4795-8ca3-93e8bf53ec56",
         "State": "CEARÁ",
         "Type": "RESIDENCIAL",
         "SubType": "R-8",
@@ -824,6 +927,7 @@
         "Cost": 1417.49
     },
     {
+        "UUID": "af847dc4-f80e-4795-8ca3-93e8bf53ec56",
         "State": "CEARÁ",
         "Type": "RESIDENCIAL",
         "SubType": "R-16",
@@ -832,6 +936,7 @@
         "Cost": 1136.15
     },
     {
+        "UUID": "af847dc4-f80e-4795-8ca3-93e8bf53ec56",
         "State": "CEARÁ",
         "Type": "RESIDENCIAL",
         "SubType": "R-16",
@@ -840,6 +945,7 @@
         "Cost": 1466.1
     },
     {
+        "UUID": "af847dc4-f80e-4795-8ca3-93e8bf53ec56",
         "State": "CEARÁ",
         "Type": "RESIDENCIAL",
         "SubType": "PIS (PROJETO INTERESSE SOCIAL)",
@@ -848,6 +954,7 @@
         "Cost": 814.6
     },
     {
+        "UUID": "af847dc4-f80e-4795-8ca3-93e8bf53ec56",
         "State": "CEARÁ",
         "Type": "RESIDENCIAL",
         "SubType": "RPQ1 (RESIDÊNCIA POPULAR)",
@@ -856,6 +963,7 @@
         "Cost": 1259.86
     },
     {
+        "UUID": "af847dc4-f80e-4795-8ca3-93e8bf53ec56",
         "State": "CEARÁ",
         "Type": "COMERCIAL",
         "SubType": "CAL-8 (COMERCIAL ANDARES-LIVRES)",
@@ -864,6 +972,7 @@
         "Cost": 1341.6
     },
     {
+        "UUID": "af847dc4-f80e-4795-8ca3-93e8bf53ec56",
         "State": "CEARÁ",
         "Type": "COMERCIAL",
         "SubType": "CAL-8 (COMERCIAL ANDARES-LIVRES)",
@@ -872,6 +981,7 @@
         "Cost": 1425.32
     },
     {
+        "UUID": "af847dc4-f80e-4795-8ca3-93e8bf53ec56",
         "State": "CEARÁ",
         "Type": "COMERCIAL",
         "SubType": "CSL-8 (COMERCIAL COM LOJAS E SALAS)",
@@ -880,6 +990,7 @@
         "Cost": 1168.58
     },
     {
+        "UUID": "af847dc4-f80e-4795-8ca3-93e8bf53ec56",
         "State": "CEARÁ",
         "Type": "COMERCIAL",
         "SubType": "CSL-8 (COMERCIAL COM LOJAS E SALAS)",
@@ -888,6 +999,7 @@
         "Cost": 1264.78
     },
     {
+        "UUID": "af847dc4-f80e-4795-8ca3-93e8bf53ec56",
         "State": "CEARÁ",
         "Type": "COMERCIAL",
         "SubType": "CSL-16 (COMERCIAL COM LOJAS E SALAS)",
@@ -896,6 +1008,7 @@
         "Cost": 1554.19
     },
     {
+        "UUID": "af847dc4-f80e-4795-8ca3-93e8bf53ec56",
         "State": "CEARÁ",
         "Type": "COMERCIAL",
         "SubType": "CSL-16 (COMERCIAL COM LOJAS E SALAS)",
@@ -904,6 +1017,7 @@
         "Cost": 1682.96
     },
     {
+        "UUID": "af847dc4-f80e-4795-8ca3-93e8bf53ec56",
         "State": "CEARÁ",
         "Type": "COMERCIAL",
         "SubType": "GL (GALPÃO INDUSTRIAL)",
@@ -912,6 +1026,7 @@
         "Cost": 672.39
     },
     {
+        "UUID": "0e6ad7d9-4c19-4088-98b8-b25009e331b0",
         "State": "DISTRITO FEDERAL",
         "Type": "RESIDENCIAL",
         "SubType": "R-1 (RESIDÊNCIA UNIFAMILIAR)",
@@ -920,6 +1035,7 @@
         "Cost": 1288.32
     },
     {
+        "UUID": "0e6ad7d9-4c19-4088-98b8-b25009e331b0",
         "State": "DISTRITO FEDERAL",
         "Type": "RESIDENCIAL",
         "SubType": "R-1 (RESIDÊNCIA UNIFAMILIAR)",
@@ -928,6 +1044,7 @@
         "Cost": 1570.76
     },
     {
+        "UUID": "0e6ad7d9-4c19-4088-98b8-b25009e331b0",
         "State": "DISTRITO FEDERAL",
         "Type": "RESIDENCIAL",
         "SubType": "R-1 (RESIDÊNCIA UNIFAMILIAR)",
@@ -936,6 +1053,7 @@
         "Cost": 1873.24
     },
     {
+        "UUID": "0e6ad7d9-4c19-4088-98b8-b25009e331b0",
         "State": "DISTRITO FEDERAL",
         "Type": "RESIDENCIAL",
         "SubType": "PP (PRÉDIO POPULAR)",
@@ -944,6 +1062,7 @@
         "Cost": 1133.46
     },
     {
+        "UUID": "0e6ad7d9-4c19-4088-98b8-b25009e331b0",
         "State": "DISTRITO FEDERAL",
         "Type": "RESIDENCIAL",
         "SubType": "PP (PRÉDIO POPULAR)",
@@ -952,6 +1071,7 @@
         "Cost": 1459.85
     },
     {
+        "UUID": "0e6ad7d9-4c19-4088-98b8-b25009e331b0",
         "State": "DISTRITO FEDERAL",
         "Type": "RESIDENCIAL",
         "SubType": "R-8",
@@ -960,6 +1080,7 @@
         "Cost": 1077.24
     },
     {
+        "UUID": "0e6ad7d9-4c19-4088-98b8-b25009e331b0",
         "State": "DISTRITO FEDERAL",
         "Type": "RESIDENCIAL",
         "SubType": "R-8",
@@ -968,6 +1089,7 @@
         "Cost": 1269.81
     },
     {
+        "UUID": "0e6ad7d9-4c19-4088-98b8-b25009e331b0",
         "State": "DISTRITO FEDERAL",
         "Type": "RESIDENCIAL",
         "SubType": "R-8",
@@ -976,6 +1098,7 @@
         "Cost": 1513.93
     },
     {
+        "UUID": "0e6ad7d9-4c19-4088-98b8-b25009e331b0",
         "State": "DISTRITO FEDERAL",
         "Type": "RESIDENCIAL",
         "SubType": "R-16",
@@ -984,6 +1107,7 @@
         "Cost": 1223.04
     },
     {
+        "UUID": "0e6ad7d9-4c19-4088-98b8-b25009e331b0",
         "State": "DISTRITO FEDERAL",
         "Type": "RESIDENCIAL",
         "SubType": "R-16",
@@ -992,6 +1116,7 @@
         "Cost": 1575.74
     },
     {
+        "UUID": "0e6ad7d9-4c19-4088-98b8-b25009e331b0",
         "State": "DISTRITO FEDERAL",
         "Type": "RESIDENCIAL",
         "SubType": "PIS (PROJETO INTERESSE SOCIAL)",
@@ -1000,6 +1125,7 @@
         "Cost": 851.8
     },
     {
+        "UUID": "0e6ad7d9-4c19-4088-98b8-b25009e331b0",
         "State": "DISTRITO FEDERAL",
         "Type": "RESIDENCIAL",
         "SubType": "RPQ1 (RESIDÊNCIA POPULAR)",
@@ -1008,6 +1134,7 @@
         "Cost": 1329.79
     },
     {
+        "UUID": "0e6ad7d9-4c19-4088-98b8-b25009e331b0",
         "State": "DISTRITO FEDERAL",
         "Type": "COMERCIAL",
         "SubType": "CAL-8 (COMERCIAL ANDARES-LIVRES)",
@@ -1016,6 +1143,7 @@
         "Cost": 1437.4
     },
     {
+        "UUID": "0e6ad7d9-4c19-4088-98b8-b25009e331b0",
         "State": "DISTRITO FEDERAL",
         "Type": "COMERCIAL",
         "SubType": "CAL-8 (COMERCIAL ANDARES-LIVRES)",
@@ -1024,6 +1152,7 @@
         "Cost": 1532.01
     },
     {
+        "UUID": "0e6ad7d9-4c19-4088-98b8-b25009e331b0",
         "State": "DISTRITO FEDERAL",
         "Type": "COMERCIAL",
         "SubType": "CSL-8 (COMERCIAL COM LOJAS E SALAS)",
@@ -1032,6 +1161,7 @@
         "Cost": 1252.54
     },
     {
+        "UUID": "0e6ad7d9-4c19-4088-98b8-b25009e331b0",
         "State": "DISTRITO FEDERAL",
         "Type": "COMERCIAL",
         "SubType": "CSL-8 (COMERCIAL COM LOJAS E SALAS)",
@@ -1040,6 +1170,7 @@
         "Cost": 1369.9
     },
     {
+        "UUID": "0e6ad7d9-4c19-4088-98b8-b25009e331b0",
         "State": "DISTRITO FEDERAL",
         "Type": "COMERCIAL",
         "SubType": "CSL-16 (COMERCIAL COM LOJAS E SALAS)",
@@ -1048,6 +1179,7 @@
         "Cost": 1666.52
     },
     {
+        "UUID": "0e6ad7d9-4c19-4088-98b8-b25009e331b0",
         "State": "DISTRITO FEDERAL",
         "Type": "COMERCIAL",
         "SubType": "CSL-16 (COMERCIAL COM LOJAS E SALAS)",
@@ -1056,6 +1188,7 @@
         "Cost": 1821.47
     },
     {
+        "UUID": "0e6ad7d9-4c19-4088-98b8-b25009e331b0",
         "State": "DISTRITO FEDERAL",
         "Type": "COMERCIAL",
         "SubType": "GL (GALPÃO INDUSTRIAL)",
@@ -1064,6 +1197,7 @@
         "Cost": 692.75
     },
     {
+        "UUID": "5ee586fd-0c7d-4a9b-b9cd-df1fe3b0bd32",
         "State": "ESPIRITO SANTO",
         "Type": "RESIDENCIAL",
         "SubType": "R-1 (RESIDÊNCIA UNIFAMILIAR)",
@@ -1072,6 +1206,7 @@
         "Cost": 1529.11
     },
     {
+        "UUID": "5ee586fd-0c7d-4a9b-b9cd-df1fe3b0bd32",
         "State": "ESPIRITO SANTO",
         "Type": "RESIDENCIAL",
         "SubType": "R-1 (RESIDÊNCIA UNIFAMILIAR)",
@@ -1080,6 +1215,7 @@
         "Cost": 1826.25
     },
     {
+        "UUID": "5ee586fd-0c7d-4a9b-b9cd-df1fe3b0bd32",
         "State": "ESPIRITO SANTO",
         "Type": "RESIDENCIAL",
         "SubType": "R-1 (RESIDÊNCIA UNIFAMILIAR)",
@@ -1088,6 +1224,7 @@
         "Cost": 2233.43
     },
     {
+        "UUID": "5ee586fd-0c7d-4a9b-b9cd-df1fe3b0bd32",
         "State": "ESPIRITO SANTO",
         "Type": "RESIDENCIAL",
         "SubType": "PP (PRÉDIO POPULAR)",
@@ -1096,6 +1233,7 @@
         "Cost": 1349.64
     },
     {
+        "UUID": "5ee586fd-0c7d-4a9b-b9cd-df1fe3b0bd32",
         "State": "ESPIRITO SANTO",
         "Type": "RESIDENCIAL",
         "SubType": "PP (PRÉDIO POPULAR)",
@@ -1104,6 +1242,7 @@
         "Cost": 1699.94
     },
     {
+        "UUID": "5ee586fd-0c7d-4a9b-b9cd-df1fe3b0bd32",
         "State": "ESPIRITO SANTO",
         "Type": "RESIDENCIAL",
         "SubType": "R-8",
@@ -1112,6 +1251,7 @@
         "Cost": 1274.9
     },
     {
+        "UUID": "5ee586fd-0c7d-4a9b-b9cd-df1fe3b0bd32",
         "State": "ESPIRITO SANTO",
         "Type": "RESIDENCIAL",
         "SubType": "R-8",
@@ -1120,6 +1260,7 @@
         "Cost": 1460.53
     },
     {
+        "UUID": "5ee586fd-0c7d-4a9b-b9cd-df1fe3b0bd32",
         "State": "ESPIRITO SANTO",
         "Type": "RESIDENCIAL",
         "SubType": "R-8",
@@ -1128,6 +1269,7 @@
         "Cost": 1759.62
     },
     {
+        "UUID": "5ee586fd-0c7d-4a9b-b9cd-df1fe3b0bd32",
         "State": "ESPIRITO SANTO",
         "Type": "RESIDENCIAL",
         "SubType": "R-16",
@@ -1136,6 +1278,7 @@
         "Cost": 1410.05
     },
     {
+        "UUID": "5ee586fd-0c7d-4a9b-b9cd-df1fe3b0bd32",
         "State": "ESPIRITO SANTO",
         "Type": "RESIDENCIAL",
         "SubType": "R-16",
@@ -1144,6 +1287,7 @@
         "Cost": 1805.36
     },
     {
+        "UUID": "5ee586fd-0c7d-4a9b-b9cd-df1fe3b0bd32",
         "State": "ESPIRITO SANTO",
         "Type": "RESIDENCIAL",
         "SubType": "PIS (PROJETO INTERESSE SOCIAL)",
@@ -1152,6 +1296,7 @@
         "Cost": 1014.69
     },
     {
+        "UUID": "5ee586fd-0c7d-4a9b-b9cd-df1fe3b0bd32",
         "State": "ESPIRITO SANTO",
         "Type": "RESIDENCIAL",
         "SubType": "RPQ1 (RESIDÊNCIA POPULAR)",
@@ -1160,6 +1305,7 @@
         "Cost": 1536.79
     },
     {
+        "UUID": "5ee586fd-0c7d-4a9b-b9cd-df1fe3b0bd32",
         "State": "ESPIRITO SANTO",
         "Type": "COMERCIAL",
         "SubType": "CAL-8 (COMERCIAL ANDARES-LIVRES)",
@@ -1168,6 +1314,7 @@
         "Cost": 1651.81
     },
     {
+        "UUID": "5ee586fd-0c7d-4a9b-b9cd-df1fe3b0bd32",
         "State": "ESPIRITO SANTO",
         "Type": "COMERCIAL",
         "SubType": "CAL-8 (COMERCIAL ANDARES-LIVRES)",
@@ -1176,6 +1323,7 @@
         "Cost": 1760.67
     },
     {
+        "UUID": "5ee586fd-0c7d-4a9b-b9cd-df1fe3b0bd32",
         "State": "ESPIRITO SANTO",
         "Type": "COMERCIAL",
         "SubType": "CSL-8 (COMERCIAL COM LOJAS E SALAS)",
@@ -1184,6 +1332,7 @@
         "Cost": 1434.76
     },
     {
+        "UUID": "5ee586fd-0c7d-4a9b-b9cd-df1fe3b0bd32",
         "State": "ESPIRITO SANTO",
         "Type": "COMERCIAL",
         "SubType": "CSL-8 (COMERCIAL COM LOJAS E SALAS)",
@@ -1192,6 +1341,7 @@
         "Cost": 1567.15
     },
     {
+        "UUID": "5ee586fd-0c7d-4a9b-b9cd-df1fe3b0bd32",
         "State": "ESPIRITO SANTO",
         "Type": "COMERCIAL",
         "SubType": "CSL-16 (COMERCIAL COM LOJAS E SALAS)",
@@ -1200,6 +1350,7 @@
         "Cost": 1903.64
     },
     {
+        "UUID": "5ee586fd-0c7d-4a9b-b9cd-df1fe3b0bd32",
         "State": "ESPIRITO SANTO",
         "Type": "COMERCIAL",
         "SubType": "CSL-16 (COMERCIAL COM LOJAS E SALAS)",
@@ -1208,6 +1359,7 @@
         "Cost": 2076.17
     },
     {
+        "UUID": "5ee586fd-0c7d-4a9b-b9cd-df1fe3b0bd32",
         "State": "ESPIRITO SANTO",
         "Type": "COMERCIAL",
         "SubType": "GL (GALPÃO INDUSTRIAL)",
@@ -1216,6 +1368,7 @@
         "Cost": 785.93
     },
     {
+        "UUID": "3bbfb42b-3a7a-474e-bab3-94cdb0fe031d",
         "State": "GOIÁS",
         "Type": "RESIDENCIAL",
         "SubType": "R-1 (RESIDÊNCIA UNIFAMILIAR)",
@@ -1224,6 +1377,7 @@
         "Cost": 0
     },
     {
+        "UUID": "3bbfb42b-3a7a-474e-bab3-94cdb0fe031d",
         "State": "GOIÁS",
         "Type": "RESIDENCIAL",
         "SubType": "R-1 (RESIDÊNCIA UNIFAMILIAR)",
@@ -1232,6 +1386,7 @@
         "Cost": 0
     },
     {
+        "UUID": "3bbfb42b-3a7a-474e-bab3-94cdb0fe031d",
         "State": "GOIÁS",
         "Type": "RESIDENCIAL",
         "SubType": "R-1 (RESIDÊNCIA UNIFAMILIAR)",
@@ -1240,6 +1395,7 @@
         "Cost": 0
     },
     {
+        "UUID": "3bbfb42b-3a7a-474e-bab3-94cdb0fe031d",
         "State": "GOIÁS",
         "Type": "RESIDENCIAL",
         "SubType": "PP (PRÉDIO POPULAR)",
@@ -1248,6 +1404,7 @@
         "Cost": 0
     },
     {
+        "UUID": "3bbfb42b-3a7a-474e-bab3-94cdb0fe031d",
         "State": "GOIÁS",
         "Type": "RESIDENCIAL",
         "SubType": "PP (PRÉDIO POPULAR)",
@@ -1256,6 +1413,7 @@
         "Cost": 0
     },
     {
+        "UUID": "3bbfb42b-3a7a-474e-bab3-94cdb0fe031d",
         "State": "GOIÁS",
         "Type": "RESIDENCIAL",
         "SubType": "R-8",
@@ -1264,6 +1422,7 @@
         "Cost": 0
     },
     {
+        "UUID": "3bbfb42b-3a7a-474e-bab3-94cdb0fe031d",
         "State": "GOIÁS",
         "Type": "RESIDENCIAL",
         "SubType": "R-8",
@@ -1272,6 +1431,7 @@
         "Cost": 0
     },
     {
+        "UUID": "3bbfb42b-3a7a-474e-bab3-94cdb0fe031d",
         "State": "GOIÁS",
         "Type": "RESIDENCIAL",
         "SubType": "R-8",
@@ -1280,6 +1440,7 @@
         "Cost": 0
     },
     {
+        "UUID": "3bbfb42b-3a7a-474e-bab3-94cdb0fe031d",
         "State": "GOIÁS",
         "Type": "RESIDENCIAL",
         "SubType": "R-16",
@@ -1288,6 +1449,7 @@
         "Cost": 0
     },
     {
+        "UUID": "3bbfb42b-3a7a-474e-bab3-94cdb0fe031d",
         "State": "GOIÁS",
         "Type": "RESIDENCIAL",
         "SubType": "R-16",
@@ -1296,6 +1458,7 @@
         "Cost": 0
     },
     {
+        "UUID": "3bbfb42b-3a7a-474e-bab3-94cdb0fe031d",
         "State": "GOIÁS",
         "Type": "RESIDENCIAL",
         "SubType": "PIS (PROJETO INTERESSE SOCIAL)",
@@ -1304,6 +1467,7 @@
         "Cost": 820.3
     },
     {
+        "UUID": "3bbfb42b-3a7a-474e-bab3-94cdb0fe031d",
         "State": "GOIÁS",
         "Type": "RESIDENCIAL",
         "SubType": "RPQ1 (RESIDÊNCIA POPULAR)",
@@ -1312,6 +1476,7 @@
         "Cost": 0
     },
     {
+        "UUID": "3bbfb42b-3a7a-474e-bab3-94cdb0fe031d",
         "State": "GOIÁS",
         "Type": "COMERCIAL",
         "SubType": "CAL-8 (COMERCIAL ANDARES-LIVRES)",
@@ -1320,6 +1485,7 @@
         "Cost": 0
     },
     {
+        "UUID": "3bbfb42b-3a7a-474e-bab3-94cdb0fe031d",
         "State": "GOIÁS",
         "Type": "COMERCIAL",
         "SubType": "CAL-8 (COMERCIAL ANDARES-LIVRES)",
@@ -1328,6 +1494,7 @@
         "Cost": 0
     },
     {
+        "UUID": "3bbfb42b-3a7a-474e-bab3-94cdb0fe031d",
         "State": "GOIÁS",
         "Type": "COMERCIAL",
         "SubType": "CSL-8 (COMERCIAL COM LOJAS E SALAS)",
@@ -1336,6 +1503,7 @@
         "Cost": 0
     },
     {
+        "UUID": "3bbfb42b-3a7a-474e-bab3-94cdb0fe031d",
         "State": "GOIÁS",
         "Type": "COMERCIAL",
         "SubType": "CSL-8 (COMERCIAL COM LOJAS E SALAS)",
@@ -1344,6 +1512,7 @@
         "Cost": 0
     },
     {
+        "UUID": "3bbfb42b-3a7a-474e-bab3-94cdb0fe031d",
         "State": "GOIÁS",
         "Type": "COMERCIAL",
         "SubType": "CSL-16 (COMERCIAL COM LOJAS E SALAS)",
@@ -1352,6 +1521,7 @@
         "Cost": 0
     },
     {
+        "UUID": "3bbfb42b-3a7a-474e-bab3-94cdb0fe031d",
         "State": "GOIÁS",
         "Type": "COMERCIAL",
         "SubType": "CSL-16 (COMERCIAL COM LOJAS E SALAS)",
@@ -1360,6 +1530,7 @@
         "Cost": 0
     },
     {
+        "UUID": "3bbfb42b-3a7a-474e-bab3-94cdb0fe031d",
         "State": "GOIÁS",
         "Type": "COMERCIAL",
         "SubType": "GL (GALPÃO INDUSTRIAL)",
@@ -1368,6 +1539,7 @@
         "Cost": 678.05
     },
     {
+        "UUID": "c7ed8cb1-7bf7-492f-aaca-bf600ffa56c1",
         "State": "MARANHÃO",
         "Type": "RESIDENCIAL",
         "SubType": "R-1 (RESIDÊNCIA UNIFAMILIAR)",
@@ -1376,6 +1548,7 @@
         "Cost": 1343.97
     },
     {
+        "UUID": "c7ed8cb1-7bf7-492f-aaca-bf600ffa56c1",
         "State": "MARANHÃO",
         "Type": "RESIDENCIAL",
         "SubType": "R-1 (RESIDÊNCIA UNIFAMILIAR)",
@@ -1384,6 +1557,7 @@
         "Cost": 1496.5
     },
     {
+        "UUID": "c7ed8cb1-7bf7-492f-aaca-bf600ffa56c1",
         "State": "MARANHÃO",
         "Type": "RESIDENCIAL",
         "SubType": "R-1 (RESIDÊNCIA UNIFAMILIAR)",
@@ -1392,6 +1566,7 @@
         "Cost": 1868.79
     },
     {
+        "UUID": "c7ed8cb1-7bf7-492f-aaca-bf600ffa56c1",
         "State": "MARANHÃO",
         "Type": "RESIDENCIAL",
         "SubType": "PP (PRÉDIO POPULAR)",
@@ -1400,6 +1575,7 @@
         "Cost": 1227.33
     },
     {
+        "UUID": "c7ed8cb1-7bf7-492f-aaca-bf600ffa56c1",
         "State": "MARANHÃO",
         "Type": "RESIDENCIAL",
         "SubType": "PP (PRÉDIO POPULAR)",
@@ -1408,6 +1584,7 @@
         "Cost": 1414.81
     },
     {
+        "UUID": "c7ed8cb1-7bf7-492f-aaca-bf600ffa56c1",
         "State": "MARANHÃO",
         "Type": "RESIDENCIAL",
         "SubType": "R-8",
@@ -1416,6 +1593,7 @@
         "Cost": 1166.67
     },
     {
+        "UUID": "c7ed8cb1-7bf7-492f-aaca-bf600ffa56c1",
         "State": "MARANHÃO",
         "Type": "RESIDENCIAL",
         "SubType": "R-8",
@@ -1424,6 +1602,7 @@
         "Cost": 1224.36
     },
     {
+        "UUID": "c7ed8cb1-7bf7-492f-aaca-bf600ffa56c1",
         "State": "MARANHÃO",
         "Type": "RESIDENCIAL",
         "SubType": "R-8",
@@ -1432,6 +1611,7 @@
         "Cost": 1510.45
     },
     {
+        "UUID": "c7ed8cb1-7bf7-492f-aaca-bf600ffa56c1",
         "State": "MARANHÃO",
         "Type": "RESIDENCIAL",
         "SubType": "R-16",
@@ -1440,6 +1620,7 @@
         "Cost": 1190.19
     },
     {
+        "UUID": "c7ed8cb1-7bf7-492f-aaca-bf600ffa56c1",
         "State": "MARANHÃO",
         "Type": "RESIDENCIAL",
         "SubType": "R-16",
@@ -1448,6 +1629,7 @@
         "Cost": 1561.03
     },
     {
+        "UUID": "c7ed8cb1-7bf7-492f-aaca-bf600ffa56c1",
         "State": "MARANHÃO",
         "Type": "RESIDENCIAL",
         "SubType": "PIS (PROJETO INTERESSE SOCIAL)",
@@ -1456,6 +1638,7 @@
         "Cost": 908.28
     },
     {
+        "UUID": "c7ed8cb1-7bf7-492f-aaca-bf600ffa56c1",
         "State": "MARANHÃO",
         "Type": "RESIDENCIAL",
         "SubType": "RPQ1 (RESIDÊNCIA POPULAR)",
@@ -1464,6 +1647,7 @@
         "Cost": 1268.52
     },
     {
+        "UUID": "c7ed8cb1-7bf7-492f-aaca-bf600ffa56c1",
         "State": "MARANHÃO",
         "Type": "COMERCIAL",
         "SubType": "CAL-8 (COMERCIAL ANDARES-LIVRES)",
@@ -1472,6 +1656,7 @@
         "Cost": 1421.26
     },
     {
+        "UUID": "c7ed8cb1-7bf7-492f-aaca-bf600ffa56c1",
         "State": "MARANHÃO",
         "Type": "COMERCIAL",
         "SubType": "CAL-8 (COMERCIAL ANDARES-LIVRES)",
@@ -1480,6 +1665,7 @@
         "Cost": 1535.98
     },
     {
+        "UUID": "c7ed8cb1-7bf7-492f-aaca-bf600ffa56c1",
         "State": "MARANHÃO",
         "Type": "COMERCIAL",
         "SubType": "CSL-8 (COMERCIAL COM LOJAS E SALAS)",
@@ -1488,6 +1674,7 @@
         "Cost": 1207.63
     },
     {
+        "UUID": "c7ed8cb1-7bf7-492f-aaca-bf600ffa56c1",
         "State": "MARANHÃO",
         "Type": "COMERCIAL",
         "SubType": "CSL-8 (COMERCIAL COM LOJAS E SALAS)",
@@ -1496,6 +1683,7 @@
         "Cost": 1332.47
     },
     {
+        "UUID": "c7ed8cb1-7bf7-492f-aaca-bf600ffa56c1",
         "State": "MARANHÃO",
         "Type": "COMERCIAL",
         "SubType": "CSL-16 (COMERCIAL COM LOJAS E SALAS)",
@@ -1504,6 +1692,7 @@
         "Cost": 1609.98
     },
     {
+        "UUID": "c7ed8cb1-7bf7-492f-aaca-bf600ffa56c1",
         "State": "MARANHÃO",
         "Type": "COMERCIAL",
         "SubType": "CSL-16 (COMERCIAL COM LOJAS E SALAS)",
@@ -1512,6 +1701,7 @@
         "Cost": 1766.88
     },
     {
+        "UUID": "c7ed8cb1-7bf7-492f-aaca-bf600ffa56c1",
         "State": "MARANHÃO",
         "Type": "COMERCIAL",
         "SubType": "GL (GALPÃO INDUSTRIAL)",
@@ -1520,6 +1710,7 @@
         "Cost": 685.57
     },
     {
+        "UUID": "9c7be63c-e618-4953-8bf1-203d2838a372",
         "State": "MATO GROSSO",
         "Type": "RESIDENCIAL",
         "SubType": "R-1 (RESIDÊNCIA UNIFAMILIAR)",
@@ -1528,6 +1719,7 @@
         "Cost": 1437.81
     },
     {
+        "UUID": "9c7be63c-e618-4953-8bf1-203d2838a372",
         "State": "MATO GROSSO",
         "Type": "RESIDENCIAL",
         "SubType": "R-1 (RESIDÊNCIA UNIFAMILIAR)",
@@ -1536,6 +1728,7 @@
         "Cost": 1705.17
     },
     {
+        "UUID": "9c7be63c-e618-4953-8bf1-203d2838a372",
         "State": "MATO GROSSO",
         "Type": "RESIDENCIAL",
         "SubType": "R-1 (RESIDÊNCIA UNIFAMILIAR)",
@@ -1544,6 +1737,7 @@
         "Cost": 2069.66
     },
     {
+        "UUID": "9c7be63c-e618-4953-8bf1-203d2838a372",
         "State": "MATO GROSSO",
         "Type": "RESIDENCIAL",
         "SubType": "PP (PRÉDIO POPULAR)",
@@ -1552,6 +1746,7 @@
         "Cost": 1272.31
     },
     {
+        "UUID": "9c7be63c-e618-4953-8bf1-203d2838a372",
         "State": "MATO GROSSO",
         "Type": "RESIDENCIAL",
         "SubType": "PP (PRÉDIO POPULAR)",
@@ -1560,6 +1755,7 @@
         "Cost": 1635.46
     },
     {
+        "UUID": "9c7be63c-e618-4953-8bf1-203d2838a372",
         "State": "MATO GROSSO",
         "Type": "RESIDENCIAL",
         "SubType": "R-8",
@@ -1568,6 +1764,7 @@
         "Cost": 1208.58
     },
     {
+        "UUID": "9c7be63c-e618-4953-8bf1-203d2838a372",
         "State": "MATO GROSSO",
         "Type": "RESIDENCIAL",
         "SubType": "R-8",
@@ -1576,6 +1773,7 @@
         "Cost": 1385.73
     },
     {
+        "UUID": "9c7be63c-e618-4953-8bf1-203d2838a372",
         "State": "MATO GROSSO",
         "Type": "RESIDENCIAL",
         "SubType": "R-8",
@@ -1584,6 +1782,7 @@
         "Cost": 1667.52
     },
     {
+        "UUID": "9c7be63c-e618-4953-8bf1-203d2838a372",
         "State": "MATO GROSSO",
         "Type": "RESIDENCIAL",
         "SubType": "R-16",
@@ -1592,6 +1791,7 @@
         "Cost": 1339.64
     },
     {
+        "UUID": "9c7be63c-e618-4953-8bf1-203d2838a372",
         "State": "MATO GROSSO",
         "Type": "RESIDENCIAL",
         "SubType": "R-16",
@@ -1600,6 +1800,7 @@
         "Cost": 1742.48
     },
     {
+        "UUID": "9c7be63c-e618-4953-8bf1-203d2838a372",
         "State": "MATO GROSSO",
         "Type": "RESIDENCIAL",
         "SubType": "PIS (PROJETO INTERESSE SOCIAL)",
@@ -1608,6 +1809,7 @@
         "Cost": 943.68
     },
     {
+        "UUID": "9c7be63c-e618-4953-8bf1-203d2838a372",
         "State": "MATO GROSSO",
         "Type": "RESIDENCIAL",
         "SubType": "RPQ1 (RESIDÊNCIA POPULAR)",
@@ -1616,6 +1818,7 @@
         "Cost": 1385.14
     },
     {
+        "UUID": "9c7be63c-e618-4953-8bf1-203d2838a372",
         "State": "MATO GROSSO",
         "Type": "COMERCIAL",
         "SubType": "CAL-8 (COMERCIAL ANDARES-LIVRES)",
@@ -1624,6 +1827,7 @@
         "Cost": 1611.72
     },
     {
+        "UUID": "9c7be63c-e618-4953-8bf1-203d2838a372",
         "State": "MATO GROSSO",
         "Type": "COMERCIAL",
         "SubType": "CAL-8 (COMERCIAL ANDARES-LIVRES)",
@@ -1632,6 +1836,7 @@
         "Cost": 1730.2
     },
     {
+        "UUID": "9c7be63c-e618-4953-8bf1-203d2838a372",
         "State": "MATO GROSSO",
         "Type": "COMERCIAL",
         "SubType": "CSL-8 (COMERCIAL COM LOJAS E SALAS)",
@@ -1640,6 +1845,7 @@
         "Cost": 1376.82
     },
     {
+        "UUID": "9c7be63c-e618-4953-8bf1-203d2838a372",
         "State": "MATO GROSSO",
         "Type": "COMERCIAL",
         "SubType": "CSL-8 (COMERCIAL COM LOJAS E SALAS)",
@@ -1648,6 +1854,7 @@
         "Cost": 1509.12
     },
     {
+        "UUID": "9c7be63c-e618-4953-8bf1-203d2838a372",
         "State": "MATO GROSSO",
         "Type": "COMERCIAL",
         "SubType": "CSL-16 (COMERCIAL COM LOJAS E SALAS)",
@@ -1656,6 +1863,7 @@
         "Cost": 1827.84
     },
     {
+        "UUID": "9c7be63c-e618-4953-8bf1-203d2838a372",
         "State": "MATO GROSSO",
         "Type": "COMERCIAL",
         "SubType": "CSL-16 (COMERCIAL COM LOJAS E SALAS)",
@@ -1664,6 +1872,7 @@
         "Cost": 1997.36
     },
     {
+        "UUID": "9c7be63c-e618-4953-8bf1-203d2838a372",
         "State": "MATO GROSSO",
         "Type": "COMERCIAL",
         "SubType": "GL (GALPÃO INDUSTRIAL)",
@@ -1672,6 +1881,7 @@
         "Cost": 725.75
     },
     {
+        "UUID": "08bfc5e2-39a2-4466-9085-5f1ad8c4a04e",
         "State": "MATO GROSSO DO SUL",
         "Type": "RESIDENCIAL",
         "SubType": "R-1 (RESIDÊNCIA UNIFAMILIAR)",
@@ -1680,6 +1890,7 @@
         "Cost": 1145.14
     },
     {
+        "UUID": "08bfc5e2-39a2-4466-9085-5f1ad8c4a04e",
         "State": "MATO GROSSO DO SUL",
         "Type": "RESIDENCIAL",
         "SubType": "R-1 (RESIDÊNCIA UNIFAMILIAR)",
@@ -1688,6 +1899,7 @@
         "Cost": 1338.93
     },
     {
+        "UUID": "08bfc5e2-39a2-4466-9085-5f1ad8c4a04e",
         "State": "MATO GROSSO DO SUL",
         "Type": "RESIDENCIAL",
         "SubType": "R-1 (RESIDÊNCIA UNIFAMILIAR)",
@@ -1696,6 +1908,7 @@
         "Cost": 1667.51
     },
     {
+        "UUID": "08bfc5e2-39a2-4466-9085-5f1ad8c4a04e",
         "State": "MATO GROSSO DO SUL",
         "Type": "RESIDENCIAL",
         "SubType": "PP (PRÉDIO POPULAR)",
@@ -1704,6 +1917,7 @@
         "Cost": 1067.11
     },
     {
+        "UUID": "08bfc5e2-39a2-4466-9085-5f1ad8c4a04e",
         "State": "MATO GROSSO DO SUL",
         "Type": "RESIDENCIAL",
         "SubType": "PP (PRÉDIO POPULAR)",
@@ -1712,6 +1926,7 @@
         "Cost": 1280.24
     },
     {
+        "UUID": "08bfc5e2-39a2-4466-9085-5f1ad8c4a04e",
         "State": "MATO GROSSO DO SUL",
         "Type": "RESIDENCIAL",
         "SubType": "R-8",
@@ -1720,6 +1935,7 @@
         "Cost": 1016.42
     },
     {
+        "UUID": "08bfc5e2-39a2-4466-9085-5f1ad8c4a04e",
         "State": "MATO GROSSO DO SUL",
         "Type": "RESIDENCIAL",
         "SubType": "R-8",
@@ -1728,6 +1944,7 @@
         "Cost": 1123.33
     },
     {
+        "UUID": "08bfc5e2-39a2-4466-9085-5f1ad8c4a04e",
         "State": "MATO GROSSO DO SUL",
         "Type": "RESIDENCIAL",
         "SubType": "R-8",
@@ -1736,6 +1953,7 @@
         "Cost": 1363.52
     },
     {
+        "UUID": "08bfc5e2-39a2-4466-9085-5f1ad8c4a04e",
         "State": "MATO GROSSO DO SUL",
         "Type": "RESIDENCIAL",
         "SubType": "R-16",
@@ -1744,6 +1962,7 @@
         "Cost": 1089.75
     },
     {
+        "UUID": "08bfc5e2-39a2-4466-9085-5f1ad8c4a04e",
         "State": "MATO GROSSO DO SUL",
         "Type": "RESIDENCIAL",
         "SubType": "R-16",
@@ -1752,6 +1971,7 @@
         "Cost": 1433
     },
     {
+        "UUID": "08bfc5e2-39a2-4466-9085-5f1ad8c4a04e",
         "State": "MATO GROSSO DO SUL",
         "Type": "RESIDENCIAL",
         "SubType": "PIS (PROJETO INTERESSE SOCIAL)",
@@ -1760,6 +1980,7 @@
         "Cost": 787.13
     },
     {
+        "UUID": "08bfc5e2-39a2-4466-9085-5f1ad8c4a04e",
         "State": "MATO GROSSO DO SUL",
         "Type": "RESIDENCIAL",
         "SubType": "RPQ1 (RESIDÊNCIA POPULAR)",
@@ -1768,6 +1989,7 @@
         "Cost": 1153.53
     },
     {
+        "UUID": "08bfc5e2-39a2-4466-9085-5f1ad8c4a04e",
         "State": "MATO GROSSO DO SUL",
         "Type": "COMERCIAL",
         "SubType": "CAL-8 (COMERCIAL ANDARES-LIVRES)",
@@ -1776,6 +1998,7 @@
         "Cost": 1321.36
     },
     {
+        "UUID": "08bfc5e2-39a2-4466-9085-5f1ad8c4a04e",
         "State": "MATO GROSSO DO SUL",
         "Type": "COMERCIAL",
         "SubType": "CAL-8 (COMERCIAL ANDARES-LIVRES)",
@@ -1784,6 +2007,7 @@
         "Cost": 1421.93
     },
     {
+        "UUID": "08bfc5e2-39a2-4466-9085-5f1ad8c4a04e",
         "State": "MATO GROSSO DO SUL",
         "Type": "COMERCIAL",
         "SubType": "CSL-8 (COMERCIAL COM LOJAS E SALAS)",
@@ -1792,6 +2016,7 @@
         "Cost": 1119.58
     },
     {
+        "UUID": "08bfc5e2-39a2-4466-9085-5f1ad8c4a04e",
         "State": "MATO GROSSO DO SUL",
         "Type": "COMERCIAL",
         "SubType": "CSL-8 (COMERCIAL COM LOJAS E SALAS)",
@@ -1800,6 +2025,7 @@
         "Cost": 1228
     },
     {
+        "UUID": "08bfc5e2-39a2-4466-9085-5f1ad8c4a04e",
         "State": "MATO GROSSO DO SUL",
         "Type": "COMERCIAL",
         "SubType": "CSL-16 (COMERCIAL COM LOJAS E SALAS)",
@@ -1808,6 +2034,7 @@
         "Cost": 1493.86
     },
     {
+        "UUID": "08bfc5e2-39a2-4466-9085-5f1ad8c4a04e",
         "State": "MATO GROSSO DO SUL",
         "Type": "COMERCIAL",
         "SubType": "CSL-16 (COMERCIAL COM LOJAS E SALAS)",
@@ -1816,6 +2043,7 @@
         "Cost": 1634.6
     },
     {
+        "UUID": "08bfc5e2-39a2-4466-9085-5f1ad8c4a04e",
         "State": "MATO GROSSO DO SUL",
         "Type": "COMERCIAL",
         "SubType": "GL (GALPÃO INDUSTRIAL)",
@@ -1824,6 +2052,7 @@
         "Cost": 617.02
     },
     {
+        "UUID": "82592383-fb6a-4672-9c5e-7f999a5b07fe",
         "State": "MINAS GERAIS",
         "Type": "RESIDENCIAL",
         "SubType": "R-1 (RESIDÊNCIA UNIFAMILIAR)",
@@ -1832,6 +2061,7 @@
         "Cost": 1393.37
     },
     {
+        "UUID": "82592383-fb6a-4672-9c5e-7f999a5b07fe",
         "State": "MINAS GERAIS",
         "Type": "RESIDENCIAL",
         "SubType": "R-1 (RESIDÊNCIA UNIFAMILIAR)",
@@ -1840,6 +2070,7 @@
         "Cost": 1694.29
     },
     {
+        "UUID": "82592383-fb6a-4672-9c5e-7f999a5b07fe",
         "State": "MINAS GERAIS",
         "Type": "RESIDENCIAL",
         "SubType": "R-1 (RESIDÊNCIA UNIFAMILIAR)",
@@ -1848,6 +2079,7 @@
         "Cost": 2052.93
     },
     {
+        "UUID": "82592383-fb6a-4672-9c5e-7f999a5b07fe",
         "State": "MINAS GERAIS",
         "Type": "RESIDENCIAL",
         "SubType": "PP (PRÉDIO POPULAR)",
@@ -1856,6 +2088,7 @@
         "Cost": 1264.03
     },
     {
+        "UUID": "82592383-fb6a-4672-9c5e-7f999a5b07fe",
         "State": "MINAS GERAIS",
         "Type": "RESIDENCIAL",
         "SubType": "PP (PRÉDIO POPULAR)",
@@ -1864,6 +2097,7 @@
         "Cost": 1587.36
     },
     {
+        "UUID": "82592383-fb6a-4672-9c5e-7f999a5b07fe",
         "State": "MINAS GERAIS",
         "Type": "RESIDENCIAL",
         "SubType": "R-8",
@@ -1872,6 +2106,7 @@
         "Cost": 1198.27
     },
     {
+        "UUID": "82592383-fb6a-4672-9c5e-7f999a5b07fe",
         "State": "MINAS GERAIS",
         "Type": "RESIDENCIAL",
         "SubType": "R-8",
@@ -1880,6 +2115,7 @@
         "Cost": 1367.48
     },
     {
+        "UUID": "82592383-fb6a-4672-9c5e-7f999a5b07fe",
         "State": "MINAS GERAIS",
         "Type": "RESIDENCIAL",
         "SubType": "R-8",
@@ -1888,6 +2124,7 @@
         "Cost": 1643.68
     },
     {
+        "UUID": "82592383-fb6a-4672-9c5e-7f999a5b07fe",
         "State": "MINAS GERAIS",
         "Type": "RESIDENCIAL",
         "SubType": "R-16",
@@ -1896,6 +2133,7 @@
         "Cost": 1322.81
     },
     {
+        "UUID": "82592383-fb6a-4672-9c5e-7f999a5b07fe",
         "State": "MINAS GERAIS",
         "Type": "RESIDENCIAL",
         "SubType": "R-16",
@@ -1904,6 +2142,7 @@
         "Cost": 1698.12
     },
     {
+        "UUID": "82592383-fb6a-4672-9c5e-7f999a5b07fe",
         "State": "MINAS GERAIS",
         "Type": "RESIDENCIAL",
         "SubType": "PIS (PROJETO INTERESSE SOCIAL)",
@@ -1912,6 +2151,7 @@
         "Cost": 919.68
     },
     {
+        "UUID": "82592383-fb6a-4672-9c5e-7f999a5b07fe",
         "State": "MINAS GERAIS",
         "Type": "RESIDENCIAL",
         "SubType": "RPQ1 (RESIDÊNCIA POPULAR)",
@@ -1920,6 +2160,7 @@
         "Cost": 1412.88
     },
     {
+        "UUID": "82592383-fb6a-4672-9c5e-7f999a5b07fe",
         "State": "MINAS GERAIS",
         "Type": "COMERCIAL",
         "SubType": "CAL-8 (COMERCIAL ANDARES-LIVRES)",
@@ -1928,6 +2169,7 @@
         "Cost": 1564.44
     },
     {
+        "UUID": "82592383-fb6a-4672-9c5e-7f999a5b07fe",
         "State": "MINAS GERAIS",
         "Type": "COMERCIAL",
         "SubType": "CAL-8 (COMERCIAL ANDARES-LIVRES)",
@@ -1936,6 +2178,7 @@
         "Cost": 1693.85
     },
     {
+        "UUID": "82592383-fb6a-4672-9c5e-7f999a5b07fe",
         "State": "MINAS GERAIS",
         "Type": "COMERCIAL",
         "SubType": "CSL-8 (COMERCIAL COM LOJAS E SALAS)",
@@ -1944,6 +2187,7 @@
         "Cost": 1337.01
     },
     {
+        "UUID": "82592383-fb6a-4672-9c5e-7f999a5b07fe",
         "State": "MINAS GERAIS",
         "Type": "COMERCIAL",
         "SubType": "CSL-8 (COMERCIAL COM LOJAS E SALAS)",
@@ -1952,6 +2196,7 @@
         "Cost": 1466.27
     },
     {
+        "UUID": "82592383-fb6a-4672-9c5e-7f999a5b07fe",
         "State": "MINAS GERAIS",
         "Type": "COMERCIAL",
         "SubType": "CSL-16 (COMERCIAL COM LOJAS E SALAS)",
@@ -1960,6 +2205,7 @@
         "Cost": 1779.86
     },
     {
+        "UUID": "82592383-fb6a-4672-9c5e-7f999a5b07fe",
         "State": "MINAS GERAIS",
         "Type": "COMERCIAL",
         "SubType": "CSL-16 (COMERCIAL COM LOJAS E SALAS)",
@@ -1968,6 +2214,7 @@
         "Cost": 1951.74
     },
     {
+        "UUID": "82592383-fb6a-4672-9c5e-7f999a5b07fe",
         "State": "MINAS GERAIS",
         "Type": "COMERCIAL",
         "SubType": "GL (GALPÃO INDUSTRIAL)",
@@ -1976,6 +2223,7 @@
         "Cost": 717.98
     },
     {
+        "UUID": "fd304613-ecf7-48f1-8352-ff24fc4e6a09",
         "State": "PARÁ",
         "Type": "RESIDENCIAL",
         "SubType": "R-1 (RESIDÊNCIA UNIFAMILIAR)",
@@ -1984,6 +2232,7 @@
         "Cost": 1246.48
     },
     {
+        "UUID": "fd304613-ecf7-48f1-8352-ff24fc4e6a09",
         "State": "PARÁ",
         "Type": "RESIDENCIAL",
         "SubType": "R-1 (RESIDÊNCIA UNIFAMILIAR)",
@@ -1992,6 +2241,7 @@
         "Cost": 1490.24
     },
     {
+        "UUID": "fd304613-ecf7-48f1-8352-ff24fc4e6a09",
         "State": "PARÁ",
         "Type": "RESIDENCIAL",
         "SubType": "R-1 (RESIDÊNCIA UNIFAMILIAR)",
@@ -2000,6 +2250,7 @@
         "Cost": 1826.99
     },
     {
+        "UUID": "fd304613-ecf7-48f1-8352-ff24fc4e6a09",
         "State": "PARÁ",
         "Type": "RESIDENCIAL",
         "SubType": "PP (PRÉDIO POPULAR)",
@@ -2008,6 +2259,7 @@
         "Cost": 1173.15
     },
     {
+        "UUID": "fd304613-ecf7-48f1-8352-ff24fc4e6a09",
         "State": "PARÁ",
         "Type": "RESIDENCIAL",
         "SubType": "PP (PRÉDIO POPULAR)",
@@ -2016,6 +2268,7 @@
         "Cost": 1398.58
     },
     {
+        "UUID": "fd304613-ecf7-48f1-8352-ff24fc4e6a09",
         "State": "PARÁ",
         "Type": "RESIDENCIAL",
         "SubType": "R-8",
@@ -2024,6 +2277,7 @@
         "Cost": 1118
     },
     {
+        "UUID": "fd304613-ecf7-48f1-8352-ff24fc4e6a09",
         "State": "PARÁ",
         "Type": "RESIDENCIAL",
         "SubType": "R-8",
@@ -2032,6 +2286,7 @@
         "Cost": 1246.44
     },
     {
+        "UUID": "fd304613-ecf7-48f1-8352-ff24fc4e6a09",
         "State": "PARÁ",
         "Type": "RESIDENCIAL",
         "SubType": "R-8",
@@ -2040,6 +2295,7 @@
         "Cost": 1490.67
     },
     {
+        "UUID": "fd304613-ecf7-48f1-8352-ff24fc4e6a09",
         "State": "PARÁ",
         "Type": "RESIDENCIAL",
         "SubType": "R-16",
@@ -2048,6 +2304,7 @@
         "Cost": 1207.59
     },
     {
+        "UUID": "fd304613-ecf7-48f1-8352-ff24fc4e6a09",
         "State": "PARÁ",
         "Type": "RESIDENCIAL",
         "SubType": "R-16",
@@ -2056,6 +2313,7 @@
         "Cost": 1579.15
     },
     {
+        "UUID": "fd304613-ecf7-48f1-8352-ff24fc4e6a09",
         "State": "PARÁ",
         "Type": "RESIDENCIAL",
         "SubType": "PIS (PROJETO INTERESSE SOCIAL)",
@@ -2064,6 +2322,7 @@
         "Cost": 830.98
     },
     {
+        "UUID": "fd304613-ecf7-48f1-8352-ff24fc4e6a09",
         "State": "PARÁ",
         "Type": "RESIDENCIAL",
         "SubType": "RPQ1 (RESIDÊNCIA POPULAR)",
@@ -2072,6 +2331,7 @@
         "Cost": 1276.03
     },
     {
+        "UUID": "fd304613-ecf7-48f1-8352-ff24fc4e6a09",
         "State": "PARÁ",
         "Type": "COMERCIAL",
         "SubType": "CAL-8 (COMERCIAL ANDARES-LIVRES)",
@@ -2080,6 +2340,7 @@
         "Cost": 1431.61
     },
     {
+        "UUID": "fd304613-ecf7-48f1-8352-ff24fc4e6a09",
         "State": "PARÁ",
         "Type": "COMERCIAL",
         "SubType": "CAL-8 (COMERCIAL ANDARES-LIVRES)",
@@ -2088,6 +2349,7 @@
         "Cost": 1519.52
     },
     {
+        "UUID": "fd304613-ecf7-48f1-8352-ff24fc4e6a09",
         "State": "PARÁ",
         "Type": "COMERCIAL",
         "SubType": "CSL-8 (COMERCIAL COM LOJAS E SALAS)",
@@ -2096,6 +2358,7 @@
         "Cost": 1246.94
     },
     {
+        "UUID": "fd304613-ecf7-48f1-8352-ff24fc4e6a09",
         "State": "PARÁ",
         "Type": "COMERCIAL",
         "SubType": "CSL-8 (COMERCIAL COM LOJAS E SALAS)",
@@ -2104,6 +2367,7 @@
         "Cost": 1344.32
     },
     {
+        "UUID": "fd304613-ecf7-48f1-8352-ff24fc4e6a09",
         "State": "PARÁ",
         "Type": "COMERCIAL",
         "SubType": "CSL-16 (COMERCIAL COM LOJAS E SALAS)",
@@ -2112,6 +2376,7 @@
         "Cost": 1668.94
     },
     {
+        "UUID": "fd304613-ecf7-48f1-8352-ff24fc4e6a09",
         "State": "PARÁ",
         "Type": "COMERCIAL",
         "SubType": "CSL-16 (COMERCIAL COM LOJAS E SALAS)",
@@ -2120,6 +2385,7 @@
         "Cost": 1797.06
     },
     {
+        "UUID": "fd304613-ecf7-48f1-8352-ff24fc4e6a09",
         "State": "PARÁ",
         "Type": "COMERCIAL",
         "SubType": "GL (GALPÃO INDUSTRIAL)",
@@ -2128,6 +2394,7 @@
         "Cost": 709.32
     },
     {
+        "UUID": "e407217f-aaf9-41d1-9ba8-b266822b3609",
         "State": "PARAÍBA",
         "Type": "RESIDENCIAL",
         "SubType": "R-1 (RESIDÊNCIA UNIFAMILIAR)",
@@ -2136,6 +2403,7 @@
         "Cost": 1095.03
     },
     {
+        "UUID": "e407217f-aaf9-41d1-9ba8-b266822b3609",
         "State": "PARAÍBA",
         "Type": "RESIDENCIAL",
         "SubType": "R-1 (RESIDÊNCIA UNIFAMILIAR)",
@@ -2144,6 +2412,7 @@
         "Cost": 1325.54
     },
     {
+        "UUID": "e407217f-aaf9-41d1-9ba8-b266822b3609",
         "State": "PARAÍBA",
         "Type": "RESIDENCIAL",
         "SubType": "R-1 (RESIDÊNCIA UNIFAMILIAR)",
@@ -2152,6 +2421,7 @@
         "Cost": 1597.75
     },
     {
+        "UUID": "e407217f-aaf9-41d1-9ba8-b266822b3609",
         "State": "PARAÍBA",
         "Type": "RESIDENCIAL",
         "SubType": "PP (PRÉDIO POPULAR)",
@@ -2160,6 +2430,7 @@
         "Cost": 978.98
     },
     {
+        "UUID": "e407217f-aaf9-41d1-9ba8-b266822b3609",
         "State": "PARAÍBA",
         "Type": "RESIDENCIAL",
         "SubType": "PP (PRÉDIO POPULAR)",
@@ -2168,6 +2439,7 @@
         "Cost": 1220.64
     },
     {
+        "UUID": "e407217f-aaf9-41d1-9ba8-b266822b3609",
         "State": "PARAÍBA",
         "Type": "RESIDENCIAL",
         "SubType": "R-8",
@@ -2176,6 +2448,7 @@
         "Cost": 930.69
     },
     {
+        "UUID": "e407217f-aaf9-41d1-9ba8-b266822b3609",
         "State": "PARAÍBA",
         "Type": "RESIDENCIAL",
         "SubType": "R-8",
@@ -2184,6 +2457,7 @@
         "Cost": 1069.66
     },
     {
+        "UUID": "e407217f-aaf9-41d1-9ba8-b266822b3609",
         "State": "PARAÍBA",
         "Type": "RESIDENCIAL",
         "SubType": "R-8",
@@ -2192,6 +2466,7 @@
         "Cost": 1288.01
     },
     {
+        "UUID": "e407217f-aaf9-41d1-9ba8-b266822b3609",
         "State": "PARAÍBA",
         "Type": "RESIDENCIAL",
         "SubType": "R-16",
@@ -2200,6 +2475,7 @@
         "Cost": 1035.14
     },
     {
+        "UUID": "e407217f-aaf9-41d1-9ba8-b266822b3609",
         "State": "PARAÍBA",
         "Type": "RESIDENCIAL",
         "SubType": "R-16",
@@ -2208,6 +2484,7 @@
         "Cost": 1362.04
     },
     {
+        "UUID": "e407217f-aaf9-41d1-9ba8-b266822b3609",
         "State": "PARAÍBA",
         "Type": "RESIDENCIAL",
         "SubType": "PIS (PROJETO INTERESSE SOCIAL)",
@@ -2216,6 +2493,7 @@
         "Cost": 718.68
     },
     {
+        "UUID": "e407217f-aaf9-41d1-9ba8-b266822b3609",
         "State": "PARAÍBA",
         "Type": "RESIDENCIAL",
         "SubType": "RPQ1 (RESIDÊNCIA POPULAR)",
@@ -2224,6 +2502,7 @@
         "Cost": 1156.4
     },
     {
+        "UUID": "e407217f-aaf9-41d1-9ba8-b266822b3609",
         "State": "PARAÍBA",
         "Type": "COMERCIAL",
         "SubType": "CAL-8 (COMERCIAL ANDARES-LIVRES)",
@@ -2232,6 +2511,7 @@
         "Cost": 1229.46
     },
     {
+        "UUID": "e407217f-aaf9-41d1-9ba8-b266822b3609",
         "State": "PARAÍBA",
         "Type": "COMERCIAL",
         "SubType": "CAL-8 (COMERCIAL ANDARES-LIVRES)",
@@ -2240,6 +2520,7 @@
         "Cost": 1310.02
     },
     {
+        "UUID": "e407217f-aaf9-41d1-9ba8-b266822b3609",
         "State": "PARAÍBA",
         "Type": "COMERCIAL",
         "SubType": "CSL-8 (COMERCIAL COM LOJAS E SALAS)",
@@ -2248,6 +2529,7 @@
         "Cost": 1069.1
     },
     {
+        "UUID": "e407217f-aaf9-41d1-9ba8-b266822b3609",
         "State": "PARAÍBA",
         "Type": "COMERCIAL",
         "SubType": "CSL-8 (COMERCIAL COM LOJAS E SALAS)",
@@ -2256,6 +2538,7 @@
         "Cost": 1162.81
     },
     {
+        "UUID": "e407217f-aaf9-41d1-9ba8-b266822b3609",
         "State": "PARAÍBA",
         "Type": "COMERCIAL",
         "SubType": "CSL-16 (COMERCIAL COM LOJAS E SALAS)",
@@ -2264,6 +2547,7 @@
         "Cost": 1420.64
     },
     {
+        "UUID": "e407217f-aaf9-41d1-9ba8-b266822b3609",
         "State": "PARAÍBA",
         "Type": "COMERCIAL",
         "SubType": "CSL-16 (COMERCIAL COM LOJAS E SALAS)",
@@ -2272,6 +2556,7 @@
         "Cost": 1545.67
     },
     {
+        "UUID": "e407217f-aaf9-41d1-9ba8-b266822b3609",
         "State": "PARAÍBA",
         "Type": "COMERCIAL",
         "SubType": "GL (GALPÃO INDUSTRIAL)",
@@ -2280,6 +2565,7 @@
         "Cost": 620.6
     },
     {
+        "UUID": "e1c0f1bd-80a3-4cfb-958a-4dbbc6939301",
         "State": "PARANÁ",
         "Type": "RESIDENCIAL",
         "SubType": "R-1 (RESIDÊNCIA UNIFAMILIAR)",
@@ -2288,6 +2574,7 @@
         "Cost": 1459.52
     },
     {
+        "UUID": "e1c0f1bd-80a3-4cfb-958a-4dbbc6939301",
         "State": "PARANÁ",
         "Type": "RESIDENCIAL",
         "SubType": "R-1 (RESIDÊNCIA UNIFAMILIAR)",
@@ -2296,6 +2583,7 @@
         "Cost": 1815.82
     },
     {
+        "UUID": "e1c0f1bd-80a3-4cfb-958a-4dbbc6939301",
         "State": "PARANÁ",
         "Type": "RESIDENCIAL",
         "SubType": "R-1 (RESIDÊNCIA UNIFAMILIAR)",
@@ -2304,6 +2592,7 @@
         "Cost": 2167.4
     },
     {
+        "UUID": "e1c0f1bd-80a3-4cfb-958a-4dbbc6939301",
         "State": "PARANÁ",
         "Type": "RESIDENCIAL",
         "SubType": "PP (PRÉDIO POPULAR)",
@@ -2312,6 +2601,7 @@
         "Cost": 1310.54
     },
     {
+        "UUID": "e1c0f1bd-80a3-4cfb-958a-4dbbc6939301",
         "State": "PARANÁ",
         "Type": "RESIDENCIAL",
         "SubType": "PP (PRÉDIO POPULAR)",
@@ -2320,6 +2610,7 @@
         "Cost": 1705.76
     },
     {
+        "UUID": "e1c0f1bd-80a3-4cfb-958a-4dbbc6939301",
         "State": "PARANÁ",
         "Type": "RESIDENCIAL",
         "SubType": "R-8",
@@ -2328,6 +2619,7 @@
         "Cost": 1241.76
     },
     {
+        "UUID": "e1c0f1bd-80a3-4cfb-958a-4dbbc6939301",
         "State": "PARANÁ",
         "Type": "RESIDENCIAL",
         "SubType": "R-8",
@@ -2336,6 +2628,7 @@
         "Cost": 1466.71
     },
     {
+        "UUID": "e1c0f1bd-80a3-4cfb-958a-4dbbc6939301",
         "State": "PARANÁ",
         "Type": "RESIDENCIAL",
         "SubType": "R-8",
@@ -2344,6 +2637,7 @@
         "Cost": 1747.01
     },
     {
+        "UUID": "e1c0f1bd-80a3-4cfb-958a-4dbbc6939301",
         "State": "PARANÁ",
         "Type": "RESIDENCIAL",
         "SubType": "R-16",
@@ -2352,6 +2646,7 @@
         "Cost": 1419.11
     },
     {
+        "UUID": "e1c0f1bd-80a3-4cfb-958a-4dbbc6939301",
         "State": "PARANÁ",
         "Type": "RESIDENCIAL",
         "SubType": "R-16",
@@ -2360,6 +2655,7 @@
         "Cost": 1811.86
     },
     {
+        "UUID": "e1c0f1bd-80a3-4cfb-958a-4dbbc6939301",
         "State": "PARANÁ",
         "Type": "RESIDENCIAL",
         "SubType": "PIS (PROJETO INTERESSE SOCIAL)",
@@ -2368,6 +2664,7 @@
         "Cost": 1012.14
     },
     {
+        "UUID": "e1c0f1bd-80a3-4cfb-958a-4dbbc6939301",
         "State": "PARANÁ",
         "Type": "RESIDENCIAL",
         "SubType": "RPQ1 (RESIDÊNCIA POPULAR)",
@@ -2376,6 +2673,7 @@
         "Cost": 1564.43
     },
     {
+        "UUID": "e1c0f1bd-80a3-4cfb-958a-4dbbc6939301",
         "State": "PARANÁ",
         "Type": "COMERCIAL",
         "SubType": "CAL-8 (COMERCIAL ANDARES-LIVRES)",
@@ -2384,6 +2682,7 @@
         "Cost": 1678.19
     },
     {
+        "UUID": "e1c0f1bd-80a3-4cfb-958a-4dbbc6939301",
         "State": "PARANÁ",
         "Type": "COMERCIAL",
         "SubType": "CAL-8 (COMERCIAL ANDARES-LIVRES)",
@@ -2392,6 +2691,7 @@
         "Cost": 1804.74
     },
     {
+        "UUID": "e1c0f1bd-80a3-4cfb-958a-4dbbc6939301",
         "State": "PARANÁ",
         "Type": "COMERCIAL",
         "SubType": "CSL-8 (COMERCIAL COM LOJAS E SALAS)",
@@ -2400,6 +2700,7 @@
         "Cost": 1446.64
     },
     {
+        "UUID": "e1c0f1bd-80a3-4cfb-958a-4dbbc6939301",
         "State": "PARANÁ",
         "Type": "COMERCIAL",
         "SubType": "CSL-8 (COMERCIAL COM LOJAS E SALAS)",
@@ -2408,6 +2709,7 @@
         "Cost": 1600.02
     },
     {
+        "UUID": "e1c0f1bd-80a3-4cfb-958a-4dbbc6939301",
         "State": "PARANÁ",
         "Type": "COMERCIAL",
         "SubType": "CSL-16 (COMERCIAL COM LOJAS E SALAS)",
@@ -2416,6 +2718,7 @@
         "Cost": 1928.22
     },
     {
+        "UUID": "e1c0f1bd-80a3-4cfb-958a-4dbbc6939301",
         "State": "PARANÁ",
         "Type": "COMERCIAL",
         "SubType": "CSL-16 (COMERCIAL COM LOJAS E SALAS)",
@@ -2424,6 +2727,7 @@
         "Cost": 2129.54
     },
     {
+        "UUID": "e1c0f1bd-80a3-4cfb-958a-4dbbc6939301",
         "State": "PARANÁ",
         "Type": "COMERCIAL",
         "SubType": "GL (GALPÃO INDUSTRIAL)",
@@ -2432,6 +2736,7 @@
         "Cost": 795.05
     },
     {
+        "UUID": "1fdea7a1-bae8-4a38-9635-25f7122024c1",
         "State": "PERNAMBUCO",
         "Type": "RESIDENCIAL",
         "SubType": "R-1 (RESIDÊNCIA UNIFAMILIAR)",
@@ -2440,6 +2745,7 @@
         "Cost": 1449.18
     },
     {
+        "UUID": "1fdea7a1-bae8-4a38-9635-25f7122024c1",
         "State": "PERNAMBUCO",
         "Type": "RESIDENCIAL",
         "SubType": "R-1 (RESIDÊNCIA UNIFAMILIAR)",
@@ -2448,6 +2754,7 @@
         "Cost": 1775.7
     },
     {
+        "UUID": "1fdea7a1-bae8-4a38-9635-25f7122024c1",
         "State": "PERNAMBUCO",
         "Type": "RESIDENCIAL",
         "SubType": "R-1 (RESIDÊNCIA UNIFAMILIAR)",
@@ -2456,6 +2763,7 @@
         "Cost": 2234.47
     },
     {
+        "UUID": "1fdea7a1-bae8-4a38-9635-25f7122024c1",
         "State": "PERNAMBUCO",
         "Type": "RESIDENCIAL",
         "SubType": "PP (PRÉDIO POPULAR)",
@@ -2464,6 +2772,7 @@
         "Cost": 1284.93
     },
     {
+        "UUID": "1fdea7a1-bae8-4a38-9635-25f7122024c1",
         "State": "PERNAMBUCO",
         "Type": "RESIDENCIAL",
         "SubType": "PP (PRÉDIO POPULAR)",
@@ -2472,6 +2781,7 @@
         "Cost": 1661.32
     },
     {
+        "UUID": "1fdea7a1-bae8-4a38-9635-25f7122024c1",
         "State": "PERNAMBUCO",
         "Type": "RESIDENCIAL",
         "SubType": "R-8",
@@ -2480,6 +2790,7 @@
         "Cost": 1212.14
     },
     {
+        "UUID": "1fdea7a1-bae8-4a38-9635-25f7122024c1",
         "State": "PERNAMBUCO",
         "Type": "RESIDENCIAL",
         "SubType": "R-8",
@@ -2488,6 +2799,7 @@
         "Cost": 1399.97
     },
     {
+        "UUID": "1fdea7a1-bae8-4a38-9635-25f7122024c1",
         "State": "PERNAMBUCO",
         "Type": "RESIDENCIAL",
         "SubType": "R-8",
@@ -2496,6 +2808,7 @@
         "Cost": 1782.05
     },
     {
+        "UUID": "1fdea7a1-bae8-4a38-9635-25f7122024c1",
         "State": "PERNAMBUCO",
         "Type": "RESIDENCIAL",
         "SubType": "R-16",
@@ -2504,6 +2817,7 @@
         "Cost": 1368.19
     },
     {
+        "UUID": "1fdea7a1-bae8-4a38-9635-25f7122024c1",
         "State": "PERNAMBUCO",
         "Type": "RESIDENCIAL",
         "SubType": "R-16",
@@ -2512,6 +2826,7 @@
         "Cost": 1724.96
     },
     {
+        "UUID": "1fdea7a1-bae8-4a38-9635-25f7122024c1",
         "State": "PERNAMBUCO",
         "Type": "RESIDENCIAL",
         "SubType": "PIS (PROJETO INTERESSE SOCIAL)",
@@ -2520,6 +2835,7 @@
         "Cost": 938.46
     },
     {
+        "UUID": "1fdea7a1-bae8-4a38-9635-25f7122024c1",
         "State": "PERNAMBUCO",
         "Type": "RESIDENCIAL",
         "SubType": "RPQ1 (RESIDÊNCIA POPULAR)",
@@ -2528,6 +2844,7 @@
         "Cost": 1365.3
     },
     {
+        "UUID": "1fdea7a1-bae8-4a38-9635-25f7122024c1",
         "State": "PERNAMBUCO",
         "Type": "COMERCIAL",
         "SubType": "CAL-8 (COMERCIAL ANDARES-LIVRES)",
@@ -2536,6 +2853,7 @@
         "Cost": 1551.09
     },
     {
+        "UUID": "1fdea7a1-bae8-4a38-9635-25f7122024c1",
         "State": "PERNAMBUCO",
         "Type": "COMERCIAL",
         "SubType": "CAL-8 (COMERCIAL ANDARES-LIVRES)",
@@ -2544,6 +2862,7 @@
         "Cost": 1688.46
     },
     {
+        "UUID": "1fdea7a1-bae8-4a38-9635-25f7122024c1",
         "State": "PERNAMBUCO",
         "Type": "COMERCIAL",
         "SubType": "CSL-8 (COMERCIAL COM LOJAS E SALAS)",
@@ -2552,6 +2871,7 @@
         "Cost": 1338.56
     },
     {
+        "UUID": "1fdea7a1-bae8-4a38-9635-25f7122024c1",
         "State": "PERNAMBUCO",
         "Type": "COMERCIAL",
         "SubType": "CSL-8 (COMERCIAL COM LOJAS E SALAS)",
@@ -2560,6 +2880,7 @@
         "Cost": 1513.28
     },
     {
+        "UUID": "1fdea7a1-bae8-4a38-9635-25f7122024c1",
         "State": "PERNAMBUCO",
         "Type": "COMERCIAL",
         "SubType": "CSL-16 (COMERCIAL COM LOJAS E SALAS)",
@@ -2568,6 +2889,7 @@
         "Cost": 1776.47
     },
     {
+        "UUID": "1fdea7a1-bae8-4a38-9635-25f7122024c1",
         "State": "PERNAMBUCO",
         "Type": "COMERCIAL",
         "SubType": "CSL-16 (COMERCIAL COM LOJAS E SALAS)",
@@ -2576,6 +2898,7 @@
         "Cost": 2008.27
     },
     {
+        "UUID": "1fdea7a1-bae8-4a38-9635-25f7122024c1",
         "State": "PERNAMBUCO",
         "Type": "COMERCIAL",
         "SubType": "GL (GALPÃO INDUSTRIAL)",
@@ -2584,6 +2907,7 @@
         "Cost": 740.61
     },
     {
+        "UUID": "c20ab239-5950-4a0b-a3ce-bc9f4336e8e4",
         "State": "PIAUÍ",
         "Type": "RESIDENCIAL",
         "SubType": "R-1 (RESIDÊNCIA UNIFAMILIAR)",
@@ -2592,6 +2916,7 @@
         "Cost": 1216.14
     },
     {
+        "UUID": "c20ab239-5950-4a0b-a3ce-bc9f4336e8e4",
         "State": "PIAUÍ",
         "Type": "RESIDENCIAL",
         "SubType": "R-1 (RESIDÊNCIA UNIFAMILIAR)",
@@ -2600,6 +2925,7 @@
         "Cost": 1485.22
     },
     {
+        "UUID": "c20ab239-5950-4a0b-a3ce-bc9f4336e8e4",
         "State": "PIAUÍ",
         "Type": "RESIDENCIAL",
         "SubType": "R-1 (RESIDÊNCIA UNIFAMILIAR)",
@@ -2608,6 +2934,7 @@
         "Cost": 1887.09
     },
     {
+        "UUID": "c20ab239-5950-4a0b-a3ce-bc9f4336e8e4",
         "State": "PIAUÍ",
         "Type": "RESIDENCIAL",
         "SubType": "PP (PRÉDIO POPULAR)",
@@ -2616,6 +2943,7 @@
         "Cost": 1125.4
     },
     {
+        "UUID": "c20ab239-5950-4a0b-a3ce-bc9f4336e8e4",
         "State": "PIAUÍ",
         "Type": "RESIDENCIAL",
         "SubType": "PP (PRÉDIO POPULAR)",
@@ -2624,6 +2952,7 @@
         "Cost": 1392.04
     },
     {
+        "UUID": "c20ab239-5950-4a0b-a3ce-bc9f4336e8e4",
         "State": "PIAUÍ",
         "Type": "RESIDENCIAL",
         "SubType": "R-8",
@@ -2632,6 +2961,7 @@
         "Cost": 1064.98
     },
     {
+        "UUID": "c20ab239-5950-4a0b-a3ce-bc9f4336e8e4",
         "State": "PIAUÍ",
         "Type": "RESIDENCIAL",
         "SubType": "R-8",
@@ -2640,6 +2970,7 @@
         "Cost": 1199.08
     },
     {
+        "UUID": "c20ab239-5950-4a0b-a3ce-bc9f4336e8e4",
         "State": "PIAUÍ",
         "Type": "RESIDENCIAL",
         "SubType": "R-8",
@@ -2648,6 +2979,7 @@
         "Cost": 1507.42
     },
     {
+        "UUID": "c20ab239-5950-4a0b-a3ce-bc9f4336e8e4",
         "State": "PIAUÍ",
         "Type": "RESIDENCIAL",
         "SubType": "R-16",
@@ -2656,6 +2988,7 @@
         "Cost": 1171
     },
     {
+        "UUID": "c20ab239-5950-4a0b-a3ce-bc9f4336e8e4",
         "State": "PIAUÍ",
         "Type": "RESIDENCIAL",
         "SubType": "R-16",
@@ -2664,6 +2997,7 @@
         "Cost": 1512.79
     },
     {
+        "UUID": "c20ab239-5950-4a0b-a3ce-bc9f4336e8e4",
         "State": "PIAUÍ",
         "Type": "RESIDENCIAL",
         "SubType": "PIS (PROJETO INTERESSE SOCIAL)",
@@ -2672,6 +3006,7 @@
         "Cost": 805.3
     },
     {
+        "UUID": "c20ab239-5950-4a0b-a3ce-bc9f4336e8e4",
         "State": "PIAUÍ",
         "Type": "RESIDENCIAL",
         "SubType": "RPQ1 (RESIDÊNCIA POPULAR)",
@@ -2680,6 +3015,7 @@
         "Cost": 1204.26
     },
     {
+        "UUID": "c20ab239-5950-4a0b-a3ce-bc9f4336e8e4",
         "State": "PIAUÍ",
         "Type": "COMERCIAL",
         "SubType": "CAL-8 (COMERCIAL ANDARES-LIVRES)",
@@ -2688,6 +3024,7 @@
         "Cost": 1364.16
     },
     {
+        "UUID": "c20ab239-5950-4a0b-a3ce-bc9f4336e8e4",
         "State": "PIAUÍ",
         "Type": "COMERCIAL",
         "SubType": "CAL-8 (COMERCIAL ANDARES-LIVRES)",
@@ -2696,6 +3033,7 @@
         "Cost": 1498.1
     },
     {
+        "UUID": "c20ab239-5950-4a0b-a3ce-bc9f4336e8e4",
         "State": "PIAUÍ",
         "Type": "COMERCIAL",
         "SubType": "CSL-8 (COMERCIAL COM LOJAS E SALAS)",
@@ -2704,6 +3042,7 @@
         "Cost": 1154
     },
     {
+        "UUID": "c20ab239-5950-4a0b-a3ce-bc9f4336e8e4",
         "State": "PIAUÍ",
         "Type": "COMERCIAL",
         "SubType": "CSL-8 (COMERCIAL COM LOJAS E SALAS)",
@@ -2712,6 +3051,7 @@
         "Cost": 1289.32
     },
     {
+        "UUID": "c20ab239-5950-4a0b-a3ce-bc9f4336e8e4",
         "State": "PIAUÍ",
         "Type": "COMERCIAL",
         "SubType": "CSL-16 (COMERCIAL COM LOJAS E SALAS)",
@@ -2720,6 +3060,7 @@
         "Cost": 1532.14
     },
     {
+        "UUID": "c20ab239-5950-4a0b-a3ce-bc9f4336e8e4",
         "State": "PIAUÍ",
         "Type": "COMERCIAL",
         "SubType": "CSL-16 (COMERCIAL COM LOJAS E SALAS)",
@@ -2728,6 +3069,7 @@
         "Cost": 1713.99
     },
     {
+        "UUID": "c20ab239-5950-4a0b-a3ce-bc9f4336e8e4",
         "State": "PIAUÍ",
         "Type": "COMERCIAL",
         "SubType": "GL (GALPÃO INDUSTRIAL)",
@@ -2736,6 +3078,7 @@
         "Cost": 655.72
     },
     {
+        "UUID": "cae60b99-4970-45eb-b883-bd100a33048c",
         "State": "RIO DE JANEIRO",
         "Type": "RESIDENCIAL",
         "SubType": "R-1 (RESIDÊNCIA UNIFAMILIAR)",
@@ -2744,6 +3087,7 @@
         "Cost": 1503.3
     },
     {
+        "UUID": "cae60b99-4970-45eb-b883-bd100a33048c",
         "State": "RIO DE JANEIRO",
         "Type": "RESIDENCIAL",
         "SubType": "R-1 (RESIDÊNCIA UNIFAMILIAR)",
@@ -2752,6 +3096,7 @@
         "Cost": 1795.05
     },
     {
+        "UUID": "cae60b99-4970-45eb-b883-bd100a33048c",
         "State": "RIO DE JANEIRO",
         "Type": "RESIDENCIAL",
         "SubType": "R-1 (RESIDÊNCIA UNIFAMILIAR)",
@@ -2760,6 +3105,7 @@
         "Cost": 2179.33
     },
     {
+        "UUID": "cae60b99-4970-45eb-b883-bd100a33048c",
         "State": "RIO DE JANEIRO",
         "Type": "RESIDENCIAL",
         "SubType": "PP (PRÉDIO POPULAR)",
@@ -2768,6 +3114,7 @@
         "Cost": 1363.15
     },
     {
+        "UUID": "cae60b99-4970-45eb-b883-bd100a33048c",
         "State": "RIO DE JANEIRO",
         "Type": "RESIDENCIAL",
         "SubType": "PP (PRÉDIO POPULAR)",
@@ -2776,6 +3123,7 @@
         "Cost": 1684.8
     },
     {
+        "UUID": "cae60b99-4970-45eb-b883-bd100a33048c",
         "State": "RIO DE JANEIRO",
         "Type": "RESIDENCIAL",
         "SubType": "R-8",
@@ -2784,6 +3132,7 @@
         "Cost": 1294.43
     },
     {
+        "UUID": "cae60b99-4970-45eb-b883-bd100a33048c",
         "State": "RIO DE JANEIRO",
         "Type": "RESIDENCIAL",
         "SubType": "R-8",
@@ -2792,6 +3141,7 @@
         "Cost": 1461.67
     },
     {
+        "UUID": "cae60b99-4970-45eb-b883-bd100a33048c",
         "State": "RIO DE JANEIRO",
         "Type": "RESIDENCIAL",
         "SubType": "R-8",
@@ -2800,6 +3150,7 @@
         "Cost": 1737.97
     },
     {
+        "UUID": "cae60b99-4970-45eb-b883-bd100a33048c",
         "State": "RIO DE JANEIRO",
         "Type": "RESIDENCIAL",
         "SubType": "R-16",
@@ -2808,6 +3159,7 @@
         "Cost": 1415
     },
     {
+        "UUID": "cae60b99-4970-45eb-b883-bd100a33048c",
         "State": "RIO DE JANEIRO",
         "Type": "RESIDENCIAL",
         "SubType": "R-16",
@@ -2816,6 +3168,7 @@
         "Cost": 1841.99
     },
     {
+        "UUID": "cae60b99-4970-45eb-b883-bd100a33048c",
         "State": "RIO DE JANEIRO",
         "Type": "RESIDENCIAL",
         "SubType": "PIS (PROJETO INTERESSE SOCIAL)",
@@ -2824,6 +3177,7 @@
         "Cost": 1007.53
     },
     {
+        "UUID": "cae60b99-4970-45eb-b883-bd100a33048c",
         "State": "RIO DE JANEIRO",
         "Type": "RESIDENCIAL",
         "SubType": "RPQ1 (RESIDÊNCIA POPULAR)",
@@ -2832,6 +3186,7 @@
         "Cost": 1564.83
     },
     {
+        "UUID": "cae60b99-4970-45eb-b883-bd100a33048c",
         "State": "RIO DE JANEIRO",
         "Type": "COMERCIAL",
         "SubType": "CAL-8 (COMERCIAL ANDARES-LIVRES)",
@@ -2840,6 +3195,7 @@
         "Cost": 1693.02
     },
     {
+        "UUID": "cae60b99-4970-45eb-b883-bd100a33048c",
         "State": "RIO DE JANEIRO",
         "Type": "COMERCIAL",
         "SubType": "CAL-8 (COMERCIAL ANDARES-LIVRES)",
@@ -2848,6 +3204,7 @@
         "Cost": 1807.07
     },
     {
+        "UUID": "cae60b99-4970-45eb-b883-bd100a33048c",
         "State": "RIO DE JANEIRO",
         "Type": "COMERCIAL",
         "SubType": "CSL-8 (COMERCIAL COM LOJAS E SALAS)",
@@ -2856,6 +3213,7 @@
         "Cost": 1450.02
     },
     {
+        "UUID": "cae60b99-4970-45eb-b883-bd100a33048c",
         "State": "RIO DE JANEIRO",
         "Type": "COMERCIAL",
         "SubType": "CSL-8 (COMERCIAL COM LOJAS E SALAS)",
@@ -2864,6 +3222,7 @@
         "Cost": 1567.33
     },
     {
+        "UUID": "cae60b99-4970-45eb-b883-bd100a33048c",
         "State": "RIO DE JANEIRO",
         "Type": "COMERCIAL",
         "SubType": "CSL-16 (COMERCIAL COM LOJAS E SALAS)",
@@ -2872,6 +3231,7 @@
         "Cost": 1927.56
     },
     {
+        "UUID": "cae60b99-4970-45eb-b883-bd100a33048c",
         "State": "RIO DE JANEIRO",
         "Type": "COMERCIAL",
         "SubType": "CSL-16 (COMERCIAL COM LOJAS E SALAS)",
@@ -2880,6 +3240,7 @@
         "Cost": 2081.31
     },
     {
+        "UUID": "cae60b99-4970-45eb-b883-bd100a33048c",
         "State": "RIO DE JANEIRO",
         "Type": "COMERCIAL",
         "SubType": "GL (GALPÃO INDUSTRIAL)",
@@ -2888,6 +3249,7 @@
         "Cost": 814.33
     },
     {
+        "UUID": "3e718a2a-df39-41f8-857b-63b7a68fb593",
         "State": "RIO GRANDE DO NORTE",
         "Type": "RESIDENCIAL",
         "SubType": "R-1 (RESIDÊNCIA UNIFAMILIAR)",
@@ -2896,6 +3258,7 @@
         "Cost": 1284.5
     },
     {
+        "UUID": "3e718a2a-df39-41f8-857b-63b7a68fb593",
         "State": "RIO GRANDE DO NORTE",
         "Type": "RESIDENCIAL",
         "SubType": "R-1 (RESIDÊNCIA UNIFAMILIAR)",
@@ -2904,6 +3267,7 @@
         "Cost": 1515.62
     },
     {
+        "UUID": "3e718a2a-df39-41f8-857b-63b7a68fb593",
         "State": "RIO GRANDE DO NORTE",
         "Type": "RESIDENCIAL",
         "SubType": "R-1 (RESIDÊNCIA UNIFAMILIAR)",
@@ -2912,6 +3276,7 @@
         "Cost": 1902.36
     },
     {
+        "UUID": "3e718a2a-df39-41f8-857b-63b7a68fb593",
         "State": "RIO GRANDE DO NORTE",
         "Type": "RESIDENCIAL",
         "SubType": "PP (PRÉDIO POPULAR)",
@@ -2920,6 +3285,7 @@
         "Cost": 1105.14
     },
     {
+        "UUID": "3e718a2a-df39-41f8-857b-63b7a68fb593",
         "State": "RIO GRANDE DO NORTE",
         "Type": "RESIDENCIAL",
         "SubType": "PP (PRÉDIO POPULAR)",
@@ -2928,6 +3294,7 @@
         "Cost": 1393.21
     },
     {
+        "UUID": "3e718a2a-df39-41f8-857b-63b7a68fb593",
         "State": "RIO GRANDE DO NORTE",
         "Type": "RESIDENCIAL",
         "SubType": "R-8",
@@ -2936,6 +3303,7 @@
         "Cost": 1043.76
     },
     {
+        "UUID": "3e718a2a-df39-41f8-857b-63b7a68fb593",
         "State": "RIO GRANDE DO NORTE",
         "Type": "RESIDENCIAL",
         "SubType": "R-8",
@@ -2944,6 +3312,7 @@
         "Cost": 1204.67
     },
     {
+        "UUID": "3e718a2a-df39-41f8-857b-63b7a68fb593",
         "State": "RIO GRANDE DO NORTE",
         "Type": "RESIDENCIAL",
         "SubType": "R-8",
@@ -2952,6 +3321,7 @@
         "Cost": 1484.77
     },
     {
+        "UUID": "3e718a2a-df39-41f8-857b-63b7a68fb593",
         "State": "RIO GRANDE DO NORTE",
         "Type": "RESIDENCIAL",
         "SubType": "R-16",
@@ -2960,6 +3330,7 @@
         "Cost": 1167.63
     },
     {
+        "UUID": "3e718a2a-df39-41f8-857b-63b7a68fb593",
         "State": "RIO GRANDE DO NORTE",
         "Type": "RESIDENCIAL",
         "SubType": "R-16",
@@ -2968,6 +3339,7 @@
         "Cost": 1533.94
     },
     {
+        "UUID": "3e718a2a-df39-41f8-857b-63b7a68fb593",
         "State": "RIO GRANDE DO NORTE",
         "Type": "RESIDENCIAL",
         "SubType": "PIS (PROJETO INTERESSE SOCIAL)",
@@ -2976,6 +3348,7 @@
         "Cost": 818.54
     },
     {
+        "UUID": "3e718a2a-df39-41f8-857b-63b7a68fb593",
         "State": "RIO GRANDE DO NORTE",
         "Type": "RESIDENCIAL",
         "SubType": "RPQ1 (RESIDÊNCIA POPULAR)",
@@ -2984,6 +3357,7 @@
         "Cost": 1246.48
     },
     {
+        "UUID": "3e718a2a-df39-41f8-857b-63b7a68fb593",
         "State": "RIO GRANDE DO NORTE",
         "Type": "COMERCIAL",
         "SubType": "CAL-8 (COMERCIAL ANDARES-LIVRES)",
@@ -2992,6 +3366,7 @@
         "Cost": 1419.96
     },
     {
+        "UUID": "3e718a2a-df39-41f8-857b-63b7a68fb593",
         "State": "RIO GRANDE DO NORTE",
         "Type": "COMERCIAL",
         "SubType": "CAL-8 (COMERCIAL ANDARES-LIVRES)",
@@ -3000,6 +3375,7 @@
         "Cost": 1529.07
     },
     {
+        "UUID": "3e718a2a-df39-41f8-857b-63b7a68fb593",
         "State": "RIO GRANDE DO NORTE",
         "Type": "COMERCIAL",
         "SubType": "CSL-8 (COMERCIAL COM LOJAS E SALAS)",
@@ -3008,6 +3384,7 @@
         "Cost": 1202.01
     },
     {
+        "UUID": "3e718a2a-df39-41f8-857b-63b7a68fb593",
         "State": "RIO GRANDE DO NORTE",
         "Type": "COMERCIAL",
         "SubType": "CSL-8 (COMERCIAL COM LOJAS E SALAS)",
@@ -3016,6 +3393,7 @@
         "Cost": 1314.64
     },
     {
+        "UUID": "3e718a2a-df39-41f8-857b-63b7a68fb593",
         "State": "RIO GRANDE DO NORTE",
         "Type": "COMERCIAL",
         "SubType": "CSL-16 (COMERCIAL COM LOJAS E SALAS)",
@@ -3024,6 +3402,7 @@
         "Cost": 1593.78
     },
     {
+        "UUID": "3e718a2a-df39-41f8-857b-63b7a68fb593",
         "State": "RIO GRANDE DO NORTE",
         "Type": "COMERCIAL",
         "SubType": "CSL-16 (COMERCIAL COM LOJAS E SALAS)",
@@ -3032,6 +3411,7 @@
         "Cost": 1742.6
     },
     {
+        "UUID": "3e718a2a-df39-41f8-857b-63b7a68fb593",
         "State": "RIO GRANDE DO NORTE",
         "Type": "COMERCIAL",
         "SubType": "GL (GALPÃO INDUSTRIAL)",
@@ -3040,6 +3420,7 @@
         "Cost": 684.26
     },
     {
+        "UUID": "a0ee11f1-9db5-4dc5-b155-e69385479b21",
         "State": "RIO GRANDE DO SUL",
         "Type": "RESIDENCIAL",
         "SubType": "R-1 (RESIDÊNCIA UNIFAMILIAR)",
@@ -3048,6 +3429,7 @@
         "Cost": 0
     },
     {
+        "UUID": "a0ee11f1-9db5-4dc5-b155-e69385479b21",
         "State": "RIO GRANDE DO SUL",
         "Type": "RESIDENCIAL",
         "SubType": "R-1 (RESIDÊNCIA UNIFAMILIAR)",
@@ -3056,6 +3438,7 @@
         "Cost": 0
     },
     {
+        "UUID": "a0ee11f1-9db5-4dc5-b155-e69385479b21",
         "State": "RIO GRANDE DO SUL",
         "Type": "RESIDENCIAL",
         "SubType": "R-1 (RESIDÊNCIA UNIFAMILIAR)",
@@ -3064,6 +3447,7 @@
         "Cost": 0
     },
     {
+        "UUID": "a0ee11f1-9db5-4dc5-b155-e69385479b21",
         "State": "RIO GRANDE DO SUL",
         "Type": "RESIDENCIAL",
         "SubType": "PP (PRÉDIO POPULAR)",
@@ -3072,6 +3456,7 @@
         "Cost": 0
     },
     {
+        "UUID": "a0ee11f1-9db5-4dc5-b155-e69385479b21",
         "State": "RIO GRANDE DO SUL",
         "Type": "RESIDENCIAL",
         "SubType": "PP (PRÉDIO POPULAR)",
@@ -3080,6 +3465,7 @@
         "Cost": 0
     },
     {
+        "UUID": "a0ee11f1-9db5-4dc5-b155-e69385479b21",
         "State": "RIO GRANDE DO SUL",
         "Type": "RESIDENCIAL",
         "SubType": "R-8",
@@ -3088,6 +3474,7 @@
         "Cost": 0
     },
     {
+        "UUID": "a0ee11f1-9db5-4dc5-b155-e69385479b21",
         "State": "RIO GRANDE DO SUL",
         "Type": "RESIDENCIAL",
         "SubType": "R-8",
@@ -3096,6 +3483,7 @@
         "Cost": 0
     },
     {
+        "UUID": "a0ee11f1-9db5-4dc5-b155-e69385479b21",
         "State": "RIO GRANDE DO SUL",
         "Type": "RESIDENCIAL",
         "SubType": "R-8",
@@ -3104,6 +3492,7 @@
         "Cost": 0
     },
     {
+        "UUID": "a0ee11f1-9db5-4dc5-b155-e69385479b21",
         "State": "RIO GRANDE DO SUL",
         "Type": "RESIDENCIAL",
         "SubType": "R-16",
@@ -3112,6 +3501,7 @@
         "Cost": 0
     },
     {
+        "UUID": "a0ee11f1-9db5-4dc5-b155-e69385479b21",
         "State": "RIO GRANDE DO SUL",
         "Type": "RESIDENCIAL",
         "SubType": "R-16",
@@ -3120,6 +3510,7 @@
         "Cost": 0
     },
     {
+        "UUID": "a0ee11f1-9db5-4dc5-b155-e69385479b21",
         "State": "RIO GRANDE DO SUL",
         "Type": "RESIDENCIAL",
         "SubType": "PIS (PROJETO INTERESSE SOCIAL)",
@@ -3128,6 +3519,7 @@
         "Cost": 0
     },
     {
+        "UUID": "a0ee11f1-9db5-4dc5-b155-e69385479b21",
         "State": "RIO GRANDE DO SUL",
         "Type": "RESIDENCIAL",
         "SubType": "RPQ1 (RESIDÊNCIA POPULAR)",
@@ -3136,6 +3528,7 @@
         "Cost": 0
     },
     {
+        "UUID": "a0ee11f1-9db5-4dc5-b155-e69385479b21",
         "State": "RIO GRANDE DO SUL",
         "Type": "COMERCIAL",
         "SubType": "CAL-8 (COMERCIAL ANDARES-LIVRES)",
@@ -3144,6 +3537,7 @@
         "Cost": 0
     },
     {
+        "UUID": "a0ee11f1-9db5-4dc5-b155-e69385479b21",
         "State": "RIO GRANDE DO SUL",
         "Type": "COMERCIAL",
         "SubType": "CAL-8 (COMERCIAL ANDARES-LIVRES)",
@@ -3152,6 +3546,7 @@
         "Cost": 0
     },
     {
+        "UUID": "a0ee11f1-9db5-4dc5-b155-e69385479b21",
         "State": "RIO GRANDE DO SUL",
         "Type": "COMERCIAL",
         "SubType": "CSL-8 (COMERCIAL COM LOJAS E SALAS)",
@@ -3160,6 +3555,7 @@
         "Cost": 0
     },
     {
+        "UUID": "a0ee11f1-9db5-4dc5-b155-e69385479b21",
         "State": "RIO GRANDE DO SUL",
         "Type": "COMERCIAL",
         "SubType": "CSL-8 (COMERCIAL COM LOJAS E SALAS)",
@@ -3168,6 +3564,7 @@
         "Cost": 0
     },
     {
+        "UUID": "a0ee11f1-9db5-4dc5-b155-e69385479b21",
         "State": "RIO GRANDE DO SUL",
         "Type": "COMERCIAL",
         "SubType": "CSL-16 (COMERCIAL COM LOJAS E SALAS)",
@@ -3176,6 +3573,7 @@
         "Cost": 0
     },
     {
+        "UUID": "a0ee11f1-9db5-4dc5-b155-e69385479b21",
         "State": "RIO GRANDE DO SUL",
         "Type": "COMERCIAL",
         "SubType": "CSL-16 (COMERCIAL COM LOJAS E SALAS)",
@@ -3184,6 +3582,7 @@
         "Cost": 0
     },
     {
+        "UUID": "a0ee11f1-9db5-4dc5-b155-e69385479b21",
         "State": "RIO GRANDE DO SUL",
         "Type": "COMERCIAL",
         "SubType": "GL (GALPÃO INDUSTRIAL)",
@@ -3192,6 +3591,7 @@
         "Cost": 778.7
     },
     {
+        "UUID": "7d0feec5-65e9-413b-a41d-5d76d70bcf43",
         "State": "RONDÔNIA",
         "Type": "RESIDENCIAL",
         "SubType": "R-1 (RESIDÊNCIA UNIFAMILIAR)",
@@ -3200,6 +3600,7 @@
         "Cost": 1230.62
     },
     {
+        "UUID": "7d0feec5-65e9-413b-a41d-5d76d70bcf43",
         "State": "RONDÔNIA",
         "Type": "RESIDENCIAL",
         "SubType": "R-1 (RESIDÊNCIA UNIFAMILIAR)",
@@ -3208,6 +3609,7 @@
         "Cost": 1421.5
     },
     {
+        "UUID": "7d0feec5-65e9-413b-a41d-5d76d70bcf43",
         "State": "RONDÔNIA",
         "Type": "RESIDENCIAL",
         "SubType": "R-1 (RESIDÊNCIA UNIFAMILIAR)",
@@ -3216,6 +3618,7 @@
         "Cost": 1786.56
     },
     {
+        "UUID": "7d0feec5-65e9-413b-a41d-5d76d70bcf43",
         "State": "RONDÔNIA",
         "Type": "RESIDENCIAL",
         "SubType": "PP (PRÉDIO POPULAR)",
@@ -3224,6 +3627,7 @@
         "Cost": 1170.16
     },
     {
+        "UUID": "7d0feec5-65e9-413b-a41d-5d76d70bcf43",
         "State": "RONDÔNIA",
         "Type": "RESIDENCIAL",
         "SubType": "PP (PRÉDIO POPULAR)",
@@ -3232,6 +3636,7 @@
         "Cost": 1379.49
     },
     {
+        "UUID": "7d0feec5-65e9-413b-a41d-5d76d70bcf43",
         "State": "RONDÔNIA",
         "Type": "RESIDENCIAL",
         "SubType": "R-8",
@@ -3240,6 +3645,7 @@
         "Cost": 1122.58
     },
     {
+        "UUID": "7d0feec5-65e9-413b-a41d-5d76d70bcf43",
         "State": "RONDÔNIA",
         "Type": "RESIDENCIAL",
         "SubType": "R-8",
@@ -3248,6 +3654,7 @@
         "Cost": 1215.7
     },
     {
+        "UUID": "7d0feec5-65e9-413b-a41d-5d76d70bcf43",
         "State": "RONDÔNIA",
         "Type": "RESIDENCIAL",
         "SubType": "R-8",
@@ -3256,6 +3663,7 @@
         "Cost": 1438.94
     },
     {
+        "UUID": "7d0feec5-65e9-413b-a41d-5d76d70bcf43",
         "State": "RONDÔNIA",
         "Type": "RESIDENCIAL",
         "SubType": "R-16",
@@ -3264,6 +3672,7 @@
         "Cost": 1188.44
     },
     {
+        "UUID": "7d0feec5-65e9-413b-a41d-5d76d70bcf43",
         "State": "RONDÔNIA",
         "Type": "RESIDENCIAL",
         "SubType": "R-16",
@@ -3272,6 +3681,7 @@
         "Cost": 1570.64
     },
     {
+        "UUID": "7d0feec5-65e9-413b-a41d-5d76d70bcf43",
         "State": "RONDÔNIA",
         "Type": "RESIDENCIAL",
         "SubType": "PIS (PROJETO INTERESSE SOCIAL)",
@@ -3280,6 +3690,7 @@
         "Cost": 848.12
     },
     {
+        "UUID": "7d0feec5-65e9-413b-a41d-5d76d70bcf43",
         "State": "RONDÔNIA",
         "Type": "RESIDENCIAL",
         "SubType": "RPQ1 (RESIDÊNCIA POPULAR)",
@@ -3288,6 +3699,7 @@
         "Cost": 1223.56
     },
     {
+        "UUID": "7d0feec5-65e9-413b-a41d-5d76d70bcf43",
         "State": "RONDÔNIA",
         "Type": "COMERCIAL",
         "SubType": "CAL-8 (COMERCIAL ANDARES-LIVRES)",
@@ -3296,6 +3708,7 @@
         "Cost": 1463.08
     },
     {
+        "UUID": "7d0feec5-65e9-413b-a41d-5d76d70bcf43",
         "State": "RONDÔNIA",
         "Type": "COMERCIAL",
         "SubType": "CAL-8 (COMERCIAL ANDARES-LIVRES)",
@@ -3304,6 +3717,7 @@
         "Cost": 1561.6
     },
     {
+        "UUID": "7d0feec5-65e9-413b-a41d-5d76d70bcf43",
         "State": "RONDÔNIA",
         "Type": "COMERCIAL",
         "SubType": "CSL-8 (COMERCIAL COM LOJAS E SALAS)",
@@ -3312,6 +3726,7 @@
         "Cost": 1232.25
     },
     {
+        "UUID": "7d0feec5-65e9-413b-a41d-5d76d70bcf43",
         "State": "RONDÔNIA",
         "Type": "COMERCIAL",
         "SubType": "CSL-8 (COMERCIAL COM LOJAS E SALAS)",
@@ -3320,6 +3735,7 @@
         "Cost": 1340.03
     },
     {
+        "UUID": "7d0feec5-65e9-413b-a41d-5d76d70bcf43",
         "State": "RONDÔNIA",
         "Type": "COMERCIAL",
         "SubType": "CSL-16 (COMERCIAL COM LOJAS E SALAS)",
@@ -3328,6 +3744,7 @@
         "Cost": 1647.63
     },
     {
+        "UUID": "7d0feec5-65e9-413b-a41d-5d76d70bcf43",
         "State": "RONDÔNIA",
         "Type": "COMERCIAL",
         "SubType": "CSL-16 (COMERCIAL COM LOJAS E SALAS)",
@@ -3336,6 +3753,7 @@
         "Cost": 1778.26
     },
     {
+        "UUID": "7d0feec5-65e9-413b-a41d-5d76d70bcf43",
         "State": "RONDÔNIA",
         "Type": "COMERCIAL",
         "SubType": "GL (GALPÃO INDUSTRIAL)",
@@ -3344,6 +3762,7 @@
         "Cost": 679.65
     },
     {
+        "UUID": "e319eb95-76f0-4f83-910e-c44ebc47eff7",
         "State": "RORAIMA",
         "Type": "RESIDENCIAL",
         "SubType": "R-1 (RESIDÊNCIA UNIFAMILIAR)",
@@ -3352,6 +3771,7 @@
         "Cost": 1406.71
     },
     {
+        "UUID": "e319eb95-76f0-4f83-910e-c44ebc47eff7",
         "State": "RORAIMA",
         "Type": "RESIDENCIAL",
         "SubType": "R-1 (RESIDÊNCIA UNIFAMILIAR)",
@@ -3360,6 +3780,7 @@
         "Cost": 1659.4
     },
     {
+        "UUID": "e319eb95-76f0-4f83-910e-c44ebc47eff7",
         "State": "RORAIMA",
         "Type": "RESIDENCIAL",
         "SubType": "R-1 (RESIDÊNCIA UNIFAMILIAR)",
@@ -3368,6 +3789,7 @@
         "Cost": 2133.88
     },
     {
+        "UUID": "e319eb95-76f0-4f83-910e-c44ebc47eff7",
         "State": "RORAIMA",
         "Type": "RESIDENCIAL",
         "SubType": "PP (PRÉDIO POPULAR)",
@@ -3376,6 +3798,7 @@
         "Cost": 1292.7
     },
     {
+        "UUID": "e319eb95-76f0-4f83-910e-c44ebc47eff7",
         "State": "RORAIMA",
         "Type": "RESIDENCIAL",
         "SubType": "PP (PRÉDIO POPULAR)",
@@ -3384,6 +3807,7 @@
         "Cost": 1605.81
     },
     {
+        "UUID": "e319eb95-76f0-4f83-910e-c44ebc47eff7",
         "State": "RORAIMA",
         "Type": "RESIDENCIAL",
         "SubType": "R-8",
@@ -3392,6 +3816,7 @@
         "Cost": 1235.96
     },
     {
+        "UUID": "e319eb95-76f0-4f83-910e-c44ebc47eff7",
         "State": "RORAIMA",
         "Type": "RESIDENCIAL",
         "SubType": "R-8",
@@ -3400,6 +3825,7 @@
         "Cost": 1407.8
     },
     {
+        "UUID": "e319eb95-76f0-4f83-910e-c44ebc47eff7",
         "State": "RORAIMA",
         "Type": "RESIDENCIAL",
         "SubType": "R-8",
@@ -3408,6 +3834,7 @@
         "Cost": 1718.39
     },
     {
+        "UUID": "e319eb95-76f0-4f83-910e-c44ebc47eff7",
         "State": "RORAIMA",
         "Type": "RESIDENCIAL",
         "SubType": "R-16",
@@ -3416,6 +3843,7 @@
         "Cost": 1378.04
     },
     {
+        "UUID": "e319eb95-76f0-4f83-910e-c44ebc47eff7",
         "State": "RORAIMA",
         "Type": "RESIDENCIAL",
         "SubType": "R-16",
@@ -3424,6 +3852,7 @@
         "Cost": 1852.02
     },
     {
+        "UUID": "e319eb95-76f0-4f83-910e-c44ebc47eff7",
         "State": "RORAIMA",
         "Type": "RESIDENCIAL",
         "SubType": "PIS (PROJETO INTERESSE SOCIAL)",
@@ -3432,6 +3861,7 @@
         "Cost": 940.98
     },
     {
+        "UUID": "e319eb95-76f0-4f83-910e-c44ebc47eff7",
         "State": "RORAIMA",
         "Type": "RESIDENCIAL",
         "SubType": "RPQ1 (RESIDÊNCIA POPULAR)",
@@ -3440,6 +3870,7 @@
         "Cost": 1376.35
     },
     {
+        "UUID": "e319eb95-76f0-4f83-910e-c44ebc47eff7",
         "State": "RORAIMA",
         "Type": "COMERCIAL",
         "SubType": "CAL-8 (COMERCIAL ANDARES-LIVRES)",
@@ -3448,6 +3879,7 @@
         "Cost": 1708.38
     },
     {
+        "UUID": "e319eb95-76f0-4f83-910e-c44ebc47eff7",
         "State": "RORAIMA",
         "Type": "COMERCIAL",
         "SubType": "CAL-8 (COMERCIAL ANDARES-LIVRES)",
@@ -3456,6 +3888,7 @@
         "Cost": 1827.36
     },
     {
+        "UUID": "e319eb95-76f0-4f83-910e-c44ebc47eff7",
         "State": "RORAIMA",
         "Type": "COMERCIAL",
         "SubType": "CSL-8 (COMERCIAL COM LOJAS E SALAS)",
@@ -3464,6 +3897,7 @@
         "Cost": 1449.36
     },
     {
+        "UUID": "e319eb95-76f0-4f83-910e-c44ebc47eff7",
         "State": "RORAIMA",
         "Type": "COMERCIAL",
         "SubType": "CSL-8 (COMERCIAL COM LOJAS E SALAS)",
@@ -3472,6 +3906,7 @@
         "Cost": 1602.45
     },
     {
+        "UUID": "e319eb95-76f0-4f83-910e-c44ebc47eff7",
         "State": "RORAIMA",
         "Type": "COMERCIAL",
         "SubType": "CSL-16 (COMERCIAL COM LOJAS E SALAS)",
@@ -3480,6 +3915,7 @@
         "Cost": 1925.74
     },
     {
+        "UUID": "e319eb95-76f0-4f83-910e-c44ebc47eff7",
         "State": "RORAIMA",
         "Type": "COMERCIAL",
         "SubType": "CSL-16 (COMERCIAL COM LOJAS E SALAS)",
@@ -3488,6 +3924,7 @@
         "Cost": 2123.08
     },
     {
+        "UUID": "e319eb95-76f0-4f83-910e-c44ebc47eff7",
         "State": "RORAIMA",
         "Type": "COMERCIAL",
         "SubType": "GL (GALPÃO INDUSTRIAL)",
@@ -3496,6 +3933,7 @@
         "Cost": 804.07
     },
     {
+        "UUID": "7df7c1d4-e480-40f9-9bf9-eda8f735e7eb",
         "State": "SANTA CATARINA",
         "Type": "RESIDENCIAL",
         "SubType": "R-1 (RESIDÊNCIA UNIFAMILIAR)",
@@ -3504,6 +3942,7 @@
         "Cost": 1589.62
     },
     {
+        "UUID": "7df7c1d4-e480-40f9-9bf9-eda8f735e7eb",
         "State": "SANTA CATARINA",
         "Type": "RESIDENCIAL",
         "SubType": "R-1 (RESIDÊNCIA UNIFAMILIAR)",
@@ -3512,6 +3951,7 @@
         "Cost": 1920.75
     },
     {
+        "UUID": "7df7c1d4-e480-40f9-9bf9-eda8f735e7eb",
         "State": "SANTA CATARINA",
         "Type": "RESIDENCIAL",
         "SubType": "R-1 (RESIDÊNCIA UNIFAMILIAR)",
@@ -3520,6 +3960,7 @@
         "Cost": 2315.09
     },
     {
+        "UUID": "7df7c1d4-e480-40f9-9bf9-eda8f735e7eb",
         "State": "SANTA CATARINA",
         "Type": "RESIDENCIAL",
         "SubType": "PP (PRÉDIO POPULAR)",
@@ -3528,6 +3969,7 @@
         "Cost": 1456.36
     },
     {
+        "UUID": "7df7c1d4-e480-40f9-9bf9-eda8f735e7eb",
         "State": "SANTA CATARINA",
         "Type": "RESIDENCIAL",
         "SubType": "PP (PRÉDIO POPULAR)",
@@ -3536,6 +3978,7 @@
         "Cost": 1798.08
     },
     {
+        "UUID": "7df7c1d4-e480-40f9-9bf9-eda8f735e7eb",
         "State": "SANTA CATARINA",
         "Type": "RESIDENCIAL",
         "SubType": "R-8",
@@ -3544,6 +3987,7 @@
         "Cost": 1386.36
     },
     {
+        "UUID": "7df7c1d4-e480-40f9-9bf9-eda8f735e7eb",
         "State": "SANTA CATARINA",
         "Type": "RESIDENCIAL",
         "SubType": "R-8",
@@ -3552,6 +3996,7 @@
         "Cost": 1586
     },
     {
+        "UUID": "7df7c1d4-e480-40f9-9bf9-eda8f735e7eb",
         "State": "SANTA CATARINA",
         "Type": "RESIDENCIAL",
         "SubType": "R-8",
@@ -3560,6 +4005,7 @@
         "Cost": 1861.93
     },
     {
+        "UUID": "7df7c1d4-e480-40f9-9bf9-eda8f735e7eb",
         "State": "SANTA CATARINA",
         "Type": "RESIDENCIAL",
         "SubType": "R-16",
@@ -3568,6 +4014,7 @@
         "Cost": 1530.76
     },
     {
+        "UUID": "7df7c1d4-e480-40f9-9bf9-eda8f735e7eb",
         "State": "SANTA CATARINA",
         "Type": "RESIDENCIAL",
         "SubType": "R-16",
@@ -3576,6 +4023,7 @@
         "Cost": 1987.63
     },
     {
+        "UUID": "7df7c1d4-e480-40f9-9bf9-eda8f735e7eb",
         "State": "SANTA CATARINA",
         "Type": "RESIDENCIAL",
         "SubType": "PIS (PROJETO INTERESSE SOCIAL)",
@@ -3584,6 +4032,7 @@
         "Cost": 1121.28
     },
     {
+        "UUID": "7df7c1d4-e480-40f9-9bf9-eda8f735e7eb",
         "State": "SANTA CATARINA",
         "Type": "RESIDENCIAL",
         "SubType": "RPQ1 (RESIDÊNCIA POPULAR)",
@@ -3592,6 +4041,7 @@
         "Cost": 1718.91
     },
     {
+        "UUID": "7df7c1d4-e480-40f9-9bf9-eda8f735e7eb",
         "State": "SANTA CATARINA",
         "Type": "COMERCIAL",
         "SubType": "CAL-8 (COMERCIAL ANDARES-LIVRES)",
@@ -3600,6 +4050,7 @@
         "Cost": 1838.13
     },
     {
+        "UUID": "7df7c1d4-e480-40f9-9bf9-eda8f735e7eb",
         "State": "SANTA CATARINA",
         "Type": "COMERCIAL",
         "SubType": "CAL-8 (COMERCIAL ANDARES-LIVRES)",
@@ -3608,6 +4059,7 @@
         "Cost": 1949.65
     },
     {
+        "UUID": "7df7c1d4-e480-40f9-9bf9-eda8f735e7eb",
         "State": "SANTA CATARINA",
         "Type": "COMERCIAL",
         "SubType": "CSL-8 (COMERCIAL COM LOJAS E SALAS)",
@@ -3616,6 +4068,7 @@
         "Cost": 1593.7
     },
     {
+        "UUID": "7df7c1d4-e480-40f9-9bf9-eda8f735e7eb",
         "State": "SANTA CATARINA",
         "Type": "COMERCIAL",
         "SubType": "CSL-8 (COMERCIAL COM LOJAS E SALAS)",
@@ -3624,6 +4077,7 @@
         "Cost": 1732.99
     },
     {
+        "UUID": "7df7c1d4-e480-40f9-9bf9-eda8f735e7eb",
         "State": "SANTA CATARINA",
         "Type": "COMERCIAL",
         "SubType": "CSL-16 (COMERCIAL COM LOJAS E SALAS)",
@@ -3632,6 +4086,7 @@
         "Cost": 2130.19
     },
     {
+        "UUID": "7df7c1d4-e480-40f9-9bf9-eda8f735e7eb",
         "State": "SANTA CATARINA",
         "Type": "COMERCIAL",
         "SubType": "CSL-16 (COMERCIAL COM LOJAS E SALAS)",
@@ -3640,6 +4095,7 @@
         "Cost": 2308.06
     },
     {
+        "UUID": "7df7c1d4-e480-40f9-9bf9-eda8f735e7eb",
         "State": "SANTA CATARINA",
         "Type": "COMERCIAL",
         "SubType": "GL (GALPÃO INDUSTRIAL)",
@@ -3648,6 +4104,7 @@
         "Cost": 898.66
     },
     {
+        "UUID": "d3b2da39-dac4-4b1c-8e0b-b4852fd40c3e",
         "State": "SÃO PAULO",
         "Type": "RESIDENCIAL",
         "SubType": "R-1 (RESIDÊNCIA UNIFAMILIAR)",
@@ -3656,6 +4113,7 @@
         "Cost": 1337.83
     },
     {
+        "UUID": "d3b2da39-dac4-4b1c-8e0b-b4852fd40c3e",
         "State": "SÃO PAULO",
         "Type": "RESIDENCIAL",
         "SubType": "R-1 (RESIDÊNCIA UNIFAMILIAR)",
@@ -3664,6 +4122,7 @@
         "Cost": 1659.8
     },
     {
+        "UUID": "d3b2da39-dac4-4b1c-8e0b-b4852fd40c3e",
         "State": "SÃO PAULO",
         "Type": "RESIDENCIAL",
         "SubType": "R-1 (RESIDÊNCIA UNIFAMILIAR)",
@@ -3672,6 +4131,7 @@
         "Cost": 1983.01
     },
     {
+        "UUID": "d3b2da39-dac4-4b1c-8e0b-b4852fd40c3e",
         "State": "SÃO PAULO",
         "Type": "RESIDENCIAL",
         "SubType": "PP (PRÉDIO POPULAR)",
@@ -3680,6 +4140,7 @@
         "Cost": 1214.27
     },
     {
+        "UUID": "d3b2da39-dac4-4b1c-8e0b-b4852fd40c3e",
         "State": "SÃO PAULO",
         "Type": "RESIDENCIAL",
         "SubType": "PP (PRÉDIO POPULAR)",
@@ -3688,6 +4149,7 @@
         "Cost": 1555.65
     },
     {
+        "UUID": "d3b2da39-dac4-4b1c-8e0b-b4852fd40c3e",
         "State": "SÃO PAULO",
         "Type": "RESIDENCIAL",
         "SubType": "R-8",
@@ -3696,6 +4158,7 @@
         "Cost": 1155.48
     },
     {
+        "UUID": "d3b2da39-dac4-4b1c-8e0b-b4852fd40c3e",
         "State": "SÃO PAULO",
         "Type": "RESIDENCIAL",
         "SubType": "R-8",
@@ -3704,6 +4167,7 @@
         "Cost": 1356.94
     },
     {
+        "UUID": "d3b2da39-dac4-4b1c-8e0b-b4852fd40c3e",
         "State": "SÃO PAULO",
         "Type": "RESIDENCIAL",
         "SubType": "R-8",
@@ -3712,6 +4176,7 @@
         "Cost": 1586.74
     },
     {
+        "UUID": "d3b2da39-dac4-4b1c-8e0b-b4852fd40c3e",
         "State": "SÃO PAULO",
         "Type": "RESIDENCIAL",
         "SubType": "R-16",
@@ -3720,6 +4185,7 @@
         "Cost": 1314.66
     },
     {
+        "UUID": "d3b2da39-dac4-4b1c-8e0b-b4852fd40c3e",
         "State": "SÃO PAULO",
         "Type": "RESIDENCIAL",
         "SubType": "R-16",
@@ -3728,6 +4194,7 @@
         "Cost": 1704.14
     },
     {
+        "UUID": "d3b2da39-dac4-4b1c-8e0b-b4852fd40c3e",
         "State": "SÃO PAULO",
         "Type": "RESIDENCIAL",
         "SubType": "PIS (PROJETO INTERESSE SOCIAL)",
@@ -3736,6 +4203,7 @@
         "Cost": 905.06
     },
     {
+        "UUID": "d3b2da39-dac4-4b1c-8e0b-b4852fd40c3e",
         "State": "SÃO PAULO",
         "Type": "RESIDENCIAL",
         "SubType": "RPQ1 (RESIDÊNCIA POPULAR)",
@@ -3744,6 +4212,7 @@
         "Cost": 1472.53
     },
     {
+        "UUID": "d3b2da39-dac4-4b1c-8e0b-b4852fd40c3e",
         "State": "SÃO PAULO",
         "Type": "COMERCIAL",
         "SubType": "CAL-8 (COMERCIAL ANDARES-LIVRES)",
@@ -3752,6 +4221,7 @@
         "Cost": 1561.95
     },
     {
+        "UUID": "d3b2da39-dac4-4b1c-8e0b-b4852fd40c3e",
         "State": "SÃO PAULO",
         "Type": "COMERCIAL",
         "SubType": "CAL-8 (COMERCIAL ANDARES-LIVRES)",
@@ -3760,6 +4230,7 @@
         "Cost": 1653.98
     },
     {
+        "UUID": "d3b2da39-dac4-4b1c-8e0b-b4852fd40c3e",
         "State": "SÃO PAULO",
         "Type": "COMERCIAL",
         "SubType": "CSL-8 (COMERCIAL COM LOJAS E SALAS)",
@@ -3768,6 +4239,7 @@
         "Cost": 1353.52
     },
     {
+        "UUID": "d3b2da39-dac4-4b1c-8e0b-b4852fd40c3e",
         "State": "SÃO PAULO",
         "Type": "COMERCIAL",
         "SubType": "CSL-8 (COMERCIAL COM LOJAS E SALAS)",
@@ -3776,6 +4248,7 @@
         "Cost": 1457.92
     },
     {
+        "UUID": "d3b2da39-dac4-4b1c-8e0b-b4852fd40c3e",
         "State": "SÃO PAULO",
         "Type": "COMERCIAL",
         "SubType": "CSL-16 (COMERCIAL COM LOJAS E SALAS)",
@@ -3784,6 +4257,7 @@
         "Cost": 1801.06
     },
     {
+        "UUID": "d3b2da39-dac4-4b1c-8e0b-b4852fd40c3e",
         "State": "SÃO PAULO",
         "Type": "COMERCIAL",
         "SubType": "CSL-16 (COMERCIAL COM LOJAS E SALAS)",
@@ -3792,6 +4266,7 @@
         "Cost": 1937.84
     },
     {
+        "UUID": "d3b2da39-dac4-4b1c-8e0b-b4852fd40c3e",
         "State": "SÃO PAULO",
         "Type": "COMERCIAL",
         "SubType": "GL (GALPÃO INDUSTRIAL)",
@@ -3800,6 +4275,7 @@
         "Cost": 761.36
     },
     {
+        "UUID": "d504d21c-94f4-4e43-a4dc-3e81f3402e7e",
         "State": "SERGIPE",
         "Type": "RESIDENCIAL",
         "SubType": "R-1 (RESIDÊNCIA UNIFAMILIAR)",
@@ -3808,6 +4284,7 @@
         "Cost": 1100.64
     },
     {
+        "UUID": "d504d21c-94f4-4e43-a4dc-3e81f3402e7e",
         "State": "SERGIPE",
         "Type": "RESIDENCIAL",
         "SubType": "R-1 (RESIDÊNCIA UNIFAMILIAR)",
@@ -3816,6 +4293,7 @@
         "Cost": 1313.34
     },
     {
+        "UUID": "d504d21c-94f4-4e43-a4dc-3e81f3402e7e",
         "State": "SERGIPE",
         "Type": "RESIDENCIAL",
         "SubType": "R-1 (RESIDÊNCIA UNIFAMILIAR)",
@@ -3824,6 +4302,7 @@
         "Cost": 1610.95
     },
     {
+        "UUID": "d504d21c-94f4-4e43-a4dc-3e81f3402e7e",
         "State": "SERGIPE",
         "Type": "RESIDENCIAL",
         "SubType": "PP (PRÉDIO POPULAR)",
@@ -3832,6 +4311,7 @@
         "Cost": 1008.71
     },
     {
+        "UUID": "d504d21c-94f4-4e43-a4dc-3e81f3402e7e",
         "State": "SERGIPE",
         "Type": "RESIDENCIAL",
         "SubType": "PP (PRÉDIO POPULAR)",
@@ -3840,6 +4320,7 @@
         "Cost": 1225.71
     },
     {
+        "UUID": "d504d21c-94f4-4e43-a4dc-3e81f3402e7e",
         "State": "SERGIPE",
         "Type": "RESIDENCIAL",
         "SubType": "R-8",
@@ -3848,6 +4329,7 @@
         "Cost": 957.52
     },
     {
+        "UUID": "d504d21c-94f4-4e43-a4dc-3e81f3402e7e",
         "State": "SERGIPE",
         "Type": "RESIDENCIAL",
         "SubType": "R-8",
@@ -3856,6 +4338,7 @@
         "Cost": 1070.77
     },
     {
+        "UUID": "d504d21c-94f4-4e43-a4dc-3e81f3402e7e",
         "State": "SERGIPE",
         "Type": "RESIDENCIAL",
         "SubType": "R-8",
@@ -3864,6 +4347,7 @@
         "Cost": 1297.36
     },
     {
+        "UUID": "d504d21c-94f4-4e43-a4dc-3e81f3402e7e",
         "State": "SERGIPE",
         "Type": "RESIDENCIAL",
         "SubType": "R-16",
@@ -3872,6 +4356,7 @@
         "Cost": 1037.09
     },
     {
+        "UUID": "d504d21c-94f4-4e43-a4dc-3e81f3402e7e",
         "State": "SERGIPE",
         "Type": "RESIDENCIAL",
         "SubType": "R-16",
@@ -3880,6 +4365,7 @@
         "Cost": 1354.57
     },
     {
+        "UUID": "d504d21c-94f4-4e43-a4dc-3e81f3402e7e",
         "State": "SERGIPE",
         "Type": "RESIDENCIAL",
         "SubType": "PIS (PROJETO INTERESSE SOCIAL)",
@@ -3888,6 +4374,7 @@
         "Cost": 734.91
     },
     {
+        "UUID": "d504d21c-94f4-4e43-a4dc-3e81f3402e7e",
         "State": "SERGIPE",
         "Type": "RESIDENCIAL",
         "SubType": "RPQ1 (RESIDÊNCIA POPULAR)",
@@ -3896,6 +4383,7 @@
         "Cost": 1139.84
     },
     {
+        "UUID": "d504d21c-94f4-4e43-a4dc-3e81f3402e7e",
         "State": "SERGIPE",
         "Type": "COMERCIAL",
         "SubType": "CAL-8 (COMERCIAL ANDARES-LIVRES)",
@@ -3904,6 +4392,7 @@
         "Cost": 1222.22
     },
     {
+        "UUID": "d504d21c-94f4-4e43-a4dc-3e81f3402e7e",
         "State": "SERGIPE",
         "Type": "COMERCIAL",
         "SubType": "CAL-8 (COMERCIAL ANDARES-LIVRES)",
@@ -3912,6 +4401,7 @@
         "Cost": 1300.33
     },
     {
+        "UUID": "d504d21c-94f4-4e43-a4dc-3e81f3402e7e",
         "State": "SERGIPE",
         "Type": "COMERCIAL",
         "SubType": "CSL-8 (COMERCIAL COM LOJAS E SALAS)",
@@ -3920,6 +4410,7 @@
         "Cost": 1060.74
     },
     {
+        "UUID": "d504d21c-94f4-4e43-a4dc-3e81f3402e7e",
         "State": "SERGIPE",
         "Type": "COMERCIAL",
         "SubType": "CSL-8 (COMERCIAL COM LOJAS E SALAS)",
@@ -3928,6 +4419,7 @@
         "Cost": 1152.63
     },
     {
+        "UUID": "d504d21c-94f4-4e43-a4dc-3e81f3402e7e",
         "State": "SERGIPE",
         "Type": "COMERCIAL",
         "SubType": "CSL-16 (COMERCIAL COM LOJAS E SALAS)",
@@ -3936,6 +4428,7 @@
         "Cost": 1411.24
     },
     {
+        "UUID": "d504d21c-94f4-4e43-a4dc-3e81f3402e7e",
         "State": "SERGIPE",
         "Type": "COMERCIAL",
         "SubType": "CSL-16 (COMERCIAL COM LOJAS E SALAS)",
@@ -3944,6 +4437,7 @@
         "Cost": 1534.69
     },
     {
+        "UUID": "d504d21c-94f4-4e43-a4dc-3e81f3402e7e",
         "State": "SERGIPE",
         "Type": "COMERCIAL",
         "SubType": "GL (GALPÃO INDUSTRIAL)",
@@ -3952,6 +4446,7 @@
         "Cost": 620.07
     },
     {
+        "UUID": "6321815a-d7ec-42ba-aeda-322012b660fd",
         "State": "TOCANTINS",
         "Type": "RESIDENCIAL",
         "SubType": "R-1 (RESIDÊNCIA UNIFAMILIAR)",
@@ -3960,6 +4455,7 @@
         "Cost": 0
     },
     {
+        "UUID": "6321815a-d7ec-42ba-aeda-322012b660fd",
         "State": "TOCANTINS",
         "Type": "RESIDENCIAL",
         "SubType": "R-1 (RESIDÊNCIA UNIFAMILIAR)",
@@ -3968,6 +4464,7 @@
         "Cost": 0
     },
     {
+        "UUID": "6321815a-d7ec-42ba-aeda-322012b660fd",
         "State": "TOCANTINS",
         "Type": "RESIDENCIAL",
         "SubType": "R-1 (RESIDÊNCIA UNIFAMILIAR)",
@@ -3976,6 +4473,7 @@
         "Cost": 0
     },
     {
+        "UUID": "6321815a-d7ec-42ba-aeda-322012b660fd",
         "State": "TOCANTINS",
         "Type": "RESIDENCIAL",
         "SubType": "PP (PRÉDIO POPULAR)",
@@ -3984,6 +4482,7 @@
         "Cost": 0
     },
     {
+        "UUID": "6321815a-d7ec-42ba-aeda-322012b660fd",
         "State": "TOCANTINS",
         "Type": "RESIDENCIAL",
         "SubType": "PP (PRÉDIO POPULAR)",
@@ -3992,6 +4491,7 @@
         "Cost": 0
     },
     {
+        "UUID": "6321815a-d7ec-42ba-aeda-322012b660fd",
         "State": "TOCANTINS",
         "Type": "RESIDENCIAL",
         "SubType": "R-8",
@@ -4000,6 +4500,7 @@
         "Cost": 0
     },
     {
+        "UUID": "6321815a-d7ec-42ba-aeda-322012b660fd",
         "State": "TOCANTINS",
         "Type": "RESIDENCIAL",
         "SubType": "R-8",
@@ -4008,6 +4509,7 @@
         "Cost": 0
     },
     {
+        "UUID": "6321815a-d7ec-42ba-aeda-322012b660fd",
         "State": "TOCANTINS",
         "Type": "RESIDENCIAL",
         "SubType": "R-8",
@@ -4016,6 +4518,7 @@
         "Cost": 0
     },
     {
+        "UUID": "6321815a-d7ec-42ba-aeda-322012b660fd",
         "State": "TOCANTINS",
         "Type": "RESIDENCIAL",
         "SubType": "R-16",
@@ -4024,6 +4527,7 @@
         "Cost": 0
     },
     {
+        "UUID": "6321815a-d7ec-42ba-aeda-322012b660fd",
         "State": "TOCANTINS",
         "Type": "RESIDENCIAL",
         "SubType": "R-16",
@@ -4032,6 +4536,7 @@
         "Cost": 0
     },
     {
+        "UUID": "6321815a-d7ec-42ba-aeda-322012b660fd",
         "State": "TOCANTINS",
         "Type": "RESIDENCIAL",
         "SubType": "PIS (PROJETO INTERESSE SOCIAL)",
@@ -4040,6 +4545,7 @@
         "Cost": 882.68
     },
     {
+        "UUID": "6321815a-d7ec-42ba-aeda-322012b660fd",
         "State": "TOCANTINS",
         "Type": "RESIDENCIAL",
         "SubType": "RPQ1 (RESIDÊNCIA POPULAR)",
@@ -4048,6 +4554,7 @@
         "Cost": 0
     },
     {
+        "UUID": "6321815a-d7ec-42ba-aeda-322012b660fd",
         "State": "TOCANTINS",
         "Type": "COMERCIAL",
         "SubType": "CAL-8 (COMERCIAL ANDARES-LIVRES)",
@@ -4056,6 +4563,7 @@
         "Cost": 0
     },
     {
+        "UUID": "6321815a-d7ec-42ba-aeda-322012b660fd",
         "State": "TOCANTINS",
         "Type": "COMERCIAL",
         "SubType": "CAL-8 (COMERCIAL ANDARES-LIVRES)",
@@ -4064,6 +4572,7 @@
         "Cost": 0
     },
     {
+        "UUID": "6321815a-d7ec-42ba-aeda-322012b660fd",
         "State": "TOCANTINS",
         "Type": "COMERCIAL",
         "SubType": "CSL-8 (COMERCIAL COM LOJAS E SALAS)",
@@ -4072,6 +4581,7 @@
         "Cost": 0
     },
     {
+        "UUID": "6321815a-d7ec-42ba-aeda-322012b660fd",
         "State": "TOCANTINS",
         "Type": "COMERCIAL",
         "SubType": "CSL-8 (COMERCIAL COM LOJAS E SALAS)",
@@ -4080,6 +4590,7 @@
         "Cost": 0
     },
     {
+        "UUID": "6321815a-d7ec-42ba-aeda-322012b660fd",
         "State": "TOCANTINS",
         "Type": "COMERCIAL",
         "SubType": "CSL-16 (COMERCIAL COM LOJAS E SALAS)",
@@ -4088,6 +4599,7 @@
         "Cost": 0
     },
     {
+        "UUID": "6321815a-d7ec-42ba-aeda-322012b660fd",
         "State": "TOCANTINS",
         "Type": "COMERCIAL",
         "SubType": "CSL-16 (COMERCIAL COM LOJAS E SALAS)",
@@ -4096,6 +4608,7 @@
         "Cost": 0
     },
     {
+        "UUID": "6321815a-d7ec-42ba-aeda-322012b660fd",
         "State": "TOCANTINS",
         "Type": "COMERCIAL",
         "SubType": "GL (GALPÃO INDUSTRIAL)",
