@@ -11,6 +11,7 @@ import (
 	"github.com/google/uuid"
 )
 
+// Building represents a strcuture who can be built by a Civil Engineer
 type Building struct {
 	UUID        string
 	State       string
