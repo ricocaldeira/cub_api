@@ -13,13 +13,13 @@ import (
 
 // Building represents a strcuture who can be built by a Civil Engineer
 type Building struct {
-	UUID        string
-	State       string
-	Type        string
-	SubType     string
-	Standard    string
-	Description string
-	Cost        float64
+	UUID        string  `json:"uuid"`
+	State       string  `json:"state"`
+	Type        string  `json:"type"`
+	SubType     string  `json:"sub_type"`
+	Standard    string  `json:"standard"`
+	Description string  `json:"description"`
+	Cost        float64 `json:"cost"`
 }
 
 func main() {
