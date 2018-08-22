@@ -45,8 +45,6 @@ func main() {
 	var mergedType string
 	var mergedSubType string
 
-	statesUUIDMap := make(map[string]string)
-
 	for _, each := range csvData {
 		if len(each[0]) > 0 {
 			mergedState = each[0]
@@ -58,13 +56,7 @@ func main() {
 			mergedSubType = each[2]
 		}
 
-		if val, ok := statesUUIDMap[mergedState]; ok {
-			building.UUID = val
-		} else {
-			building.UUID = uuid.New().String()
-			statesUUIDMap[mergedState] = building.UUID
-		}
-
+		building.UUID = uuid.New().String()
 		building.State = mergedState
 		building.Type = mergedType
 		building.SubType = mergedSubType
@@ -80,8 +72,6 @@ func main() {
 		fmt.Println(err)
 		os.Exit(1)
 	}
-
-	fmt.Println(string(jsonData))
 
 	jsonFile, err := os.Create("cub.json")
 	if err != nil {
