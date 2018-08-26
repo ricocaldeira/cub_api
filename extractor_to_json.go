@@ -55,6 +55,9 @@ func main() {
 		if len(each[2]) > 0 {
 			mergedSubType = each[2]
 		}
+		if mergedType != "RESIDENCIAL" {
+			continue
+		}
 
 		building.UUID = uuid.New().String()
 		building.State = mergedState
@@ -73,7 +76,7 @@ func main() {
 		os.Exit(1)
 	}
 
-	jsonFile, err := os.Create("cub.json")
+	jsonFile, err := os.Create("residences.json")
 	if err != nil {
 		fmt.Println(err)
 	}
